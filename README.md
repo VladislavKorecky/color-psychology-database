@@ -6,9 +6,10 @@ Color Psychology Database is a collection of data, describing the emotions and p
 - yaml
   1. yaml_converter.py - python script able to convert JSON files to YAML
   2. data.yaml - YAML version of data.json, data.yaml is regularly updated, but might not be always up-to-date. If you want to make sure, run the yaml_converter.py or use the JSON version instead.
+- tests - Folder for testing files. These files aren't useful or necessary for users, but help the developers find bugs and invalid data.
 
-### Data contnet
-`
+### Data content
+```json
 {
     "some_emotion_or_effect": {
         "positive": true,
@@ -37,12 +38,12 @@ Color Psychology Database is a collection of data, describing the emotions and p
         ]
     }
 }
-`
-- "another_emotion_or_effect" and "some_emotion_or_effect" are keys/ids of the emotions and are used to group and label their corresponding data so that it can be easily found and used.
-- "positive" defines if the emotion is positive/wanted, in which case its value is "true or if the emotion is negative/a side effect, which is indicated by the value "false"
-- "text" is the name of the effect/emotion. It is usually the same as the key but without underscores, but it is not a rule.
-- "colors" is a list of colors that relate to the effect/emotion.
-- "importance" defines how strongly are emotions and color related. The color and importance are in the same position (element-wise operation), which means that the first color responds to the first number, the second color to the second number, and so on. The numbers range from infinity to -infinity (infinities not included), including integers and floating points. A higher number means that the color is more tightly related to the emotion/effect.
+```
+- **"another_emotion_or_effect"** and **"some_emotion_or_effect"** are keys/ids of the emotions and are used to group and label their corresponding data so that it can be easily found and used.
+- **"positive"** defines if the emotion is positive/wanted, in which case its value is "true or if the emotion is negative/a side effect, which is indicated by the value "false"
+- **"text"** is the name of the effect/emotion. It is usually the same as the key but without underscores, but it is not a rule.
+- **"colors"** is a list of colors that relate to the effect/emotion. Currently the colors in use are: red, orange, yellow, green, blue, indigo, purple, turquoise, pink, magenta, brown, grey, silver, gold, white, black.
+- **"importance"** defines how strongly are emotions and color related. The color and importance are in the same position (element-wise operation), which means that the first color responds to the first number, the second color to the second number, and so on. The numbers range from infinity to -infinity (infinities not included), including integers and floating points. A higher number means that the color is more tightly related to the emotion/effect.
 
 
 ## License
