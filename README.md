@@ -1,5 +1,6 @@
 # Color Psychology Database
-Color Psychology Database is a collection of data, describing the emotions and psychological effects of colors.
+Color Psychology Database is a collection of data, describing the emotions and psychological effects of colors.\
+Every color has a certain emotion and psychological effect attched to it. People and companies can utilize this to their advantage by using specific colors for logos, home/interior design, websites, apps, products, clothes and many more. This dataset was created as a computer-readible summary of these effects to help create amazing tools and apps regarding this field of psychology and design.
 
 ## Repository description
 - data.json - JSON file containing the color psychology data. Visit [Data content](#data-content) for more information.
@@ -45,11 +46,10 @@ Color Psychology Database is a collection of data, describing the emotions and p
 - **"colors"** is a list of colors that relate to the effect/emotion. Currently the colors in use are: red, orange, yellow, green, blue, indigo, purple, turquoise, pink, magenta, brown, grey, silver, gold, white, black.
 - **"importance"** defines how strongly are emotions and color related. The color and importance are in the same position (element-wise operation), which means that the first color responds to the first number, the second color to the second number, and so on. The numbers range from infinity to -infinity (infinities not included), including integers and floating points. A higher number means that the color is more tightly related to the emotion/effect.
 
+### Data origin:
+- **[Empowered by color](https://www.empower-yourself-with-color-psychology.com/)** - main source 
+- Project contributors
+- Other/Unknown websites
 
 ## License
 This project is under the MIT License. For more info, read the "LICENSE" file or check out [TLDRLegal](https://tldrlegal.com/license/mit-license) for a quick summary.
-
-## Data origin:
-- **[Empowered by color](https://www.empower-yourself-with-color-psychology.com/)** - main source 
-- Project contributors
-- Other/Unknown
