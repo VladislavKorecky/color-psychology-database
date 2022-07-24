@@ -1,0 +1,24 @@
+# WARNING: do not remove tests.data imports, editors say they are unused but they are necessary!
+from tests.data import data
+from tests.data import emotion_data
+
+
+def test_emotion_importance(emotion_data):
+    for d in emotion_data:
+        importance = d.get("importance")
+        importance_length = len(importance)
+
+        assert importance is not None
+        assert isinstance(importance, list)
+
+        check_importance_types(importance)
+
+        colors = d.get("colors")
+        colors_length = len(colors)
+        assert importance_length == colors_length
+
+
+def check_importance_types(importance):
+    for i in importance:
+        assert i is not None
+        assert isinstance(i, int) or isinstance(i, float)
