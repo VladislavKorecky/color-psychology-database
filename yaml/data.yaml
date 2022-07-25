@@ -1,0 +1,2984 @@
+abundant:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: abundant
+academic_and_analytical:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: true
+  text: academic and analytical
+achievement:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: achievement
+active:
+  colors:
+  - red
+  importance:
+  - 2
+  positive: true
+  text: need for action/active
+adaptable:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: true
+  text: adaptable
+addictive:
+  colors:
+  - indigo
+  importance:
+  - 1
+  positive: false
+  text: addiction invoking/addictive
+adventurous:
+  colors:
+  - orange
+  importance:
+  - 2
+  positive: true
+  text: adventurous
+affectionate:
+  colors:
+  - pink
+  importance:
+  - 1
+  positive: true
+  text: affectionate
+aggressive:
+  colors:
+  - red
+  importance:
+  - 1
+  positive: false
+  text: aggressive
+agreeable:
+  colors:
+  - orange
+  - green
+  importance:
+  - 0
+  - 1
+  positive: true
+  text: agreeable
+agriculture_and_farming:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: true
+  text: agriculture and farming
+aloof_and_frigid:
+  colors:
+  - blue
+  - purple
+  - turquoise
+  - black
+  importance:
+  - 0
+  - 0
+  - 0
+  - 1
+  positive: false
+  text: aloof and frigid
+ambitious:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: true
+  text: ambitious
+angry_and_quick-tempered:
+  colors:
+  - red
+  importance:
+  - 0
+  positive: false
+  text: angry and quick-tempered
+anxious:
+  colors:
+  - yellow
+  - magenta
+  importance:
+  - 1
+  - 0
+  positive: false
+  text: anxiety producing/anxious
+appetite:
+  colors:
+  - red
+  - orange
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: stimulates the appetite, food craving
+approachable:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: true
+  text: approachable
+artistic:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: true
+  text: artistic
+assertive:
+  colors:
+  - red
+  importance:
+  - 1
+  positive: true
+  text: assertive
+attention-getting:
+  colors:
+  - red
+  importance:
+  - 1
+  positive: true
+  text: attention-getting
+authority:
+  colors:
+  - blue
+  - black
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: authority
+avoiding_conflict:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: false
+  text: avoiding conflict
+avoids_challenges:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: false
+  text: avoids challenges
+bigoted:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: false
+  text: bigoted
+boastful:
+  colors:
+  - turquoise
+  importance:
+  - 0
+  positive: false
+  text: boastful
+boring:
+  colors:
+  - brown
+  - grey
+  - white
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: false
+  text: boring
+bossy:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: false
+  text: bossy
+calm:
+  colors:
+  - green
+  - blue
+  - turquoise
+  - pink
+  - grey
+  - silver
+  - magenta
+  - brown
+  - white
+  importance:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: calm
+caring_and_nurturing:
+  colors:
+  - green
+  - blue
+  - pink
+  - turquoise
+  - magenta
+  importance:
+  - 1
+  - 0
+  - 2
+  - 0
+  - 0
+  positive: true
+  text: caring and nurturing
+challenging:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: true
+  text: challenging
+change_and_transformation:
+  colors:
+  - magenta
+  importance:
+  - 1
+  positive: true
+  text: change and transformation
+charismatic:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: charismatic
+cheap_and_stingy:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: false
+  text: cheap and stingy
+cheerful:
+  colors:
+  - orange
+  - yellow
+  - magenta
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: cheerful
+clarity_of_thought:
+  colors:
+  - turquoise
+  - yellow
+  - green
+  importance:
+  - 2
+  - 0
+  - 0
+  positive: true
+  text: clarity of thought
+classic:
+  colors:
+  - grey
+  importance:
+  - 0
+  positive: true
+  text: classic
+cleanliness:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: true
+  text: cleanliness
+clear_thinking:
+  colors:
+  - turquoise
+  - yellow
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: clear thinking
+colorless:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: false
+  text: colorless
+comforting:
+  colors:
+  - brown
+  - black
+  - pink
+  - white
+  importance:
+  - 1
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: comforting
+common_sense:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: true
+  text: encourages common sense
+communicative:
+  colors:
+  - turquoise
+  - orange
+  - yellow
+  - blue
+  importance:
+  - 2
+  - 2
+  - 1
+  - 1
+  positive: true
+  text: communicative
+compassion_and_understanding:
+  colors:
+  - turquoise
+  - pink
+  - magenta
+  - gold
+  - silver
+  importance:
+  - 0
+  - 1
+  - 1
+  - 1
+  - 0
+  positive: true
+  text: compassion and understanding
+complete_and_whole:
+  colors:
+  - white
+  - pink
+  importance:
+  - 2
+  - 0
+  positive: true
+  text: complete and whole
+compromise:
+  colors:
+  - grey
+  importance:
+  - 2
+  positive: true
+  text: compromise
+concentration:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: true
+  text: concentration
+confident:
+  colors:
+  - red
+  - orange
+  - yellow
+  - green
+  - blue
+  - turquoise
+  - brown
+  - gold
+  - black
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: confident
+conformity:
+  colors:
+  - indigo
+  importance:
+  - 1
+  positive: false
+  text: conformity
+conservative:
+  colors:
+  - blue
+  - grey
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: conservative
+contained:
+  colors:
+  - black
+  importance:
+  - 0
+  positive: true
+  text: contained
+control:
+  colors:
+  - black
+  - grey
+  importance:
+  - 1
+  - 1
+  positive: true
+  text: control
+conventional:
+  colors:
+  - black
+  - grey
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: conventional
+cooperative:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: true
+  text: cooperative
+courageous:
+  colors:
+  - red
+  - orange
+  importance:
+  - 0
+  - 1
+  positive: true
+  text: courageous
+cowardly:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: false
+  text: cowardly
+creative:
+  colors:
+  - orange
+  - yellow
+  - purple
+  - turquoise
+  - magenta
+  - indigo
+  - white
+  importance:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: creative
+critical:
+  colors:
+  - yellow
+  - white
+  importance:
+  - 1
+  - 0
+  positive: false
+  text: critical
+cynical:
+  colors:
+  - purple
+  importance:
+  - 1
+  positive: false
+  text: cynical
+deceitful:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: false
+  text: deceitful
+deceitful_and_spiteful:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: false
+  text: deceitful and spiteful
+deceptive:
+  colors:
+  - turquoise
+  - silver
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: deceptive
+delusions_of_grandeur:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: false
+  text: delusions of grandeur
+demanding:
+  colors:
+  - magenta
+  - gold
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: demanding
+demands_respect:
+  colors:
+  - purple
+  - pink
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: demands_respect
+dependable:
+  colors:
+  - grey
+  - green
+  - brown
+  importance:
+  - 0
+  - 1
+  - 0
+  positive: true
+  text: dependable
+dependent:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: false
+  text: dependent
+depressed_and_sad:
+  colors:
+  - blue
+  - indigo
+  - grey
+  - black
+  - purple
+  - magenta
+  importance:
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  - 0
+  positive: false
+  text: depressed and sad
+detached:
+  colors:
+  - white
+  - grey
+  importance:
+  - 0
+  - 2
+  positive: false
+  text: detached
+determined:
+  colors:
+  - red
+  - blue
+  - silver
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: determined
+devious_with_money:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: false
+  text: devious with money
+devotion:
+  colors:
+  - blue
+  - indigo
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: devotion
+dignified:
+  colors:
+  - grey
+  - silver
+  - indigo
+  - purple
+  - black
+  importance:
+  - 0
+  - 1
+  - 0
+  - 1
+  - 1
+  positive: true
+  text: dignified
+diplomatic:
+  colors:
+  - green
+  importance:
+  - 1
+  positive: true
+  text: diplomatic
+disciplined:
+  colors:
+  - black
+  importance:
+  - 0
+  positive: true
+  text: disciplined
+disconnected_to_others:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: false
+  text: disconnected_to_others
+discriminatory:
+  colors:
+  - turquoise
+  importance:
+  - 0
+  positive: false
+  text: discriminatory
+disinterested:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: false
+  text: disinterested
+distant:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: false
+  text: distant
+domineering:
+  colors:
+  - red
+  - magenta
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: domineering
+down_to_earth:
+  colors:
+  - green
+  - brown
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: down to earth
+dramatic:
+  colors:
+  - indigo
+  importance:
+  - 1
+  positive: true
+  text: dramatic
+dull:
+  colors:
+  - brown
+  - silver
+  - gold
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: false
+  text: dull
+efficient:
+  colors:
+  - white
+  importance:
+  - 1
+  positive: true
+  text: efficient
+egotistical:
+  colors:
+  - yellow
+  - gold
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: egotistical
+elegant:
+  colors:
+  - grey
+  - gold
+  - black
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: elegant
+emotional:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: true
+  text: emotional
+emotional_balance_and_harmony:
+  colors:
+  - turquoise
+  - magenta
+  - green
+  - purple
+  importance:
+  - 0
+  - 2
+  - 2
+  - 0
+  positive: true
+  text: emotional balance and harmony
+emotional_control:
+  colors:
+  - purple
+  - turquoise
+  importance:
+  - 1
+  - 1
+  positive: true
+  text: emotional control
+emotional_neediness:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: false
+  text: emotional neediness
+emotionally_strong:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: true
+  text: emotionally strong
+emotionally_unstable:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: false
+  text: emotionally unstable
+empathic:
+  colors:
+  - purple
+  - turquoise
+  - pink
+  importance:
+  - 1
+  - 0
+  - 0
+  positive: true
+  text: empathic
+empty:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: false
+  text: empty
+energising_and_stimulating:
+  colors:
+  - red
+  - orange
+  - magenta
+  importance:
+  - 2
+  - 1
+  - 0
+  positive: true
+  text: energising and stimulating
+enlightenment:
+  colors:
+  - gold
+  importance:
+  - 1
+  positive: true
+  text: enlightenment
+enthusiastic:
+  colors:
+  - orange
+  - yellow
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: enthusiastic
+envious:
+  colors:
+  - green
+  importance:
+  - 1
+  positive: false
+  text: envious
+equality:
+  colors:
+  - white
+  importance:
+  - 1
+  positive: true
+  text: equality
+exciting:
+  colors:
+  - red
+  importance:
+  - 1
+  positive: true
+  text: exciting
+exhibitionist:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: false
+  text: exhibitionist
+extroverted_and_uninhibited:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: true
+  text: extroverted and uninhibited
+fair:
+  colors:
+  - indigo
+  - white
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: fair
+faithful:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: true
+  text: faithful
+'false':
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: false
+  text: 'false'
+family_and_friends:
+  colors:
+  - green
+  - pink
+  - brown
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: family and friends
+fanatical:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: false
+  text: fanatical
+fantasy:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: true
+  text: fantasy
+fastidious:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: false
+  text: fastidious
+fear_of_failure:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: false
+  text: fear of failure
+fear_of_losing_wealth:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: false
+  text: fear of losing wealth
+fearful:
+  colors:
+  - red
+  - indigo
+  - black
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: false
+  text: fearful
+feminine:
+  colors:
+  - pink
+  - silver
+  importance:
+  - 0
+  - 1
+  positive: true
+  text: feminine
+fence-sitter:
+  colors:
+  - turquoise
+  - grey
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: fence-sitter
+finance:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: true
+  text: finance
+flamboyant:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: true
+  text: flamboyant
+formal:
+  colors:
+  - grey
+  - black
+  importance:
+  - 0
+  - 1
+  positive: true
+  text: formal
+fraudulent_and_corrupt:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: false
+  text: fraudulent and corrupt
+friendly:
+  colors:
+  - brown
+  - green
+  - turquoise
+  - orange
+  importance:
+  - 0
+  - 0
+  - 0
+  - 1
+  positive: true
+  text: friendly
+frugal:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: false
+  text: frugal
+fun:
+  colors:
+  - yellow
+  importance:
+  - 1
+  positive: true
+  text: fun
+future_state_of_mind:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: true
+  text: future state of mind/dreams
+futuristic:
+  colors:
+  - white
+  importance:
+  - 1
+  positive: true
+  text: futuristic
+generous:
+  colors:
+  - green
+  - gold
+  importance:
+  - 0
+  - 1
+  positive: true
+  text: generous
+genuine:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: true
+  text: genuine
+girlish:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: false
+  text: girlish
+glamorous:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: true
+  text: glamorous
+good-humored:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: true
+  text: good-humored
+greedy:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: false
+  text: greedy
+growth:
+  colors:
+  - green
+  - turquoise
+  - white
+  importance:
+  - 2
+  - 0
+  - 0
+  positive: true
+  text: growth
+happy:
+  colors:
+  - orange
+  - yellow
+  - turquoise
+  - magenta
+  importance:
+  - 0
+  - 1
+  - 0
+  - 0
+  positive: true
+  text: happy
+healing:
+  colors:
+  - turquoise
+  importance:
+  - 0
+  positive: true
+  text: healing
+helps_the_spirit_soar:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: true
+  text: helps the spirit soar
+hi-tech:
+  colors:
+  - silver
+  - blue
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: hi-tech
+higher_mind:
+  colors:
+  - indigo
+  - purple
+  - blue
+  importance:
+  - 2
+  - 0
+  - 0
+  positive: true
+  text: higher mind
+highly_visible:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: true
+  text: highly visible
+honest:
+  colors:
+  - brown
+  - blue
+  importance:
+  - 0
+  - 1
+  positive: true
+  text: honest
+hopeful:
+  colors:
+  - pink
+  - yellow
+  - green
+  - white
+  importance:
+  - 1
+  - 0
+  - 1
+  - 0
+  positive: true
+  text: hopeful
+humanitarian:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: true
+  text: humanitarian
+idealistic:
+  colors:
+  - blue
+  - indigo
+  - turquoise
+  importance:
+  - 0
+  - 1
+  - 0
+  positive: true
+  text: idealistic
+illuminative:
+  colors:
+  - silver
+  - yellow
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: illuminative
+imagination:
+  colors:
+  - purple
+  importance:
+  - 2
+  positive: true
+  text: imagination
+imaginative:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: true
+  text: imaginative
+immaculate_and_neat:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: true
+  text: immaculate and neat
+immature:
+  colors:
+  - purple
+  - pink
+  importance:
+  - 1
+  - 1
+  positive: false
+  text: immature
+impartial:
+  colors:
+  - grey
+  - white
+  importance:
+  - 0
+  - 1
+  positive: true
+  text: impartial
+impatient:
+  colors:
+  - yellow
+  - magenta
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: impatient
+impractical:
+  colors:
+  - indigo
+  - purple
+  importance:
+  - 0
+  - 1
+  positive: false
+  text: impractical
+impulsive:
+  colors:
+  - yellow
+  - magenta
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: impulsive
+inconsiderate:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: false
+  text: inconsiderate
+indecisive:
+  colors:
+  - grey
+  - silver
+  importance:
+  - 2
+  - 0
+  positive: false
+  text: indecisive
+independent:
+  colors:
+  - orange
+  - purple
+  - white
+  - black
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: independent
+indifferent:
+  colors:
+  - green
+  - grey
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: indifferent
+inexpensive:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: false
+  text: inexpensive
+inexperienced:
+  colors:
+  - green
+  - pink
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: inexperienced
+inferiority_complex:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: false
+  text: inferiority complex
+inflexible:
+  colors:
+  - blue
+  - indigo
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: inflexible/not flexible
+informal:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: true
+  text: informal
+innocent:
+  colors:
+  - white
+  - pink
+  importance:
+  - 2
+  - 0
+  positive: true
+  text: innocent
+innovative:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: true
+  text: innovative
+insightful:
+  colors:
+  - silver
+  - green
+  - blue
+  - pink
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: insightful
+inspiring:
+  colors:
+  - purple
+  - magenta
+  importance:
+  - 1
+  - 1
+  positive: true
+  text: inspiring/inspirative
+integrity:
+  colors:
+  - indigo
+  - blue
+  - purple
+  importance:
+  - 1
+  - 0
+  - 0
+  positive: true
+  text: integrity
+intelligent:
+  colors:
+  - grey
+  - yellow
+  - blue
+  importance:
+  - 0
+  - 2
+  - 0
+  positive: true
+  text: intelligent
+intimate:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: true
+  text: intimate
+intimidating:
+  colors:
+  - black
+  importance:
+  - 0
+  positive: false
+  text: intimidating
+intolerant:
+  colors:
+  - red
+  - indigo
+  - magenta
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: false
+  text: intolerant
+introspective:
+  colors:
+  - indigo
+  - purple
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: introspective
+intuition:
+  colors:
+  - indigo
+  - purple
+  - turquoise
+  - pink
+  - magenta
+  importance:
+  - 2
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: intuition/intuitive
+irritates:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: false
+  text: irritates
+isolated:
+  colors:
+  - grey
+  - white
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: isolated
+judgmental:
+  colors:
+  - yellow
+  - indigo
+  - green
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: false
+  text: judgmental
+justice:
+  colors:
+  - indigo
+  - silver
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: justice
+kind:
+  colors:
+  - green
+  - magenta
+  - pink
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: kind
+knowledge:
+  colors:
+  - yellow
+  - gold
+  - magenta
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: knowledge
+lack_of_humor:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: false
+  text: lack of humor
+lack_of_self_worth:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: false
+  text: lack of self worth
+lack_of_will_power:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: false
+  text: lack of will power
+lacking_compassion:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: false
+  text: lacking compassion
+lacking_generosity:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: false
+  text: lacking generosity
+lacking_kindness:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: false
+  text: lacking kindness
+law:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: true
+  text: law and peoples rights
+lifeless:
+  colors:
+  - grey
+  - silver
+  importance:
+  - 0
+  - 1
+  positive: false
+  text: lifeless
+logical:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: true
+  text: logical
+lonely:
+  colors:
+  - grey
+  - silver
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: lonely
+love:
+  colors:
+  - pink
+  - red
+  - magenta
+  - gold
+  - purple
+  importance:
+  - 2
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: love
+loyal:
+  colors:
+  - green
+  - blue
+  - brown
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: loyal
+luxurious:
+  colors:
+  - gold
+  - purple
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: luxurious
+manipulative:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: false
+  text: manipulative
+masculine:
+  colors:
+  - gold
+  - red
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: masculine
+mature:
+  colors:
+  - grey
+  - brown
+  - silver
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: mature
+mean_spirited:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: false
+  text: mean spirited
+melancholy:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: false
+  text: melancholy
+mind:
+  colors:
+  - yellow
+  importance:
+  - 2
+  positive: true
+  text: mind
+modern:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: true
+  text: modern
+motivating:
+  colors:
+  - red
+  importance:
+  - 1
+  positive: true
+  text: motivating
+mysterious:
+  colors:
+  - purple
+  - black
+  - silver
+  importance:
+  - 0
+  - 2
+  - 0
+  positive: true
+  text: mysterious
+naive:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: false
+  text: naive
+narrow-minded:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: false
+  text: narrow-minded
+natural_and_organic:
+  colors:
+  - brown
+  importance:
+  - 1
+  positive: true
+  text: natural and organic
+nature_lover:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: true
+  text: nature lover
+need_to_belong:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: true
+  text: need to belong
+negative:
+  colors:
+  - silver
+  - black
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: negative
+negotiator:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: true
+  text: negotiator
+neutral:
+  colors:
+  - grey
+  - silver
+  - white
+  importance:
+  - 1
+  - 0
+  - 0
+  positive: true
+  text: neutral
+new_beginnings:
+  colors:
+  - white
+  importance:
+  - 1
+  positive: true
+  text: new beginnings
+noble:
+  colors:
+  - purple
+  - gold
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: nobel/royal
+non-committal:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: false
+  text: non-committal
+non-conformist:
+  colors:
+  - magenta
+  importance:
+  - 1
+  positive: true
+  text: non-conformist
+non-emotional:
+  colors:
+  - yellow
+  - grey
+  - turquoise
+  importance:
+  - 1
+  - 1
+  - 1
+  positive: false
+  text: non-emotional
+nostalgic:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: true
+  text: nostalgic
+obedient:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: true
+  text: obedient
+observation:
+  colors:
+  - turquoise
+  importance:
+  - 0
+  positive: true
+  text: observation
+open:
+  colors:
+  - white
+  - pink
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: open
+optimistic:
+  colors:
+  - orange
+  - yellow
+  - gold
+  - green
+  - magenta
+  - silver
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: optimistic
+orderly:
+  colors:
+  - blue
+  - indigo
+  importance:
+  - 1
+  - 1
+  positive: true
+  text: orderly
+organised:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: true
+  text: organised
+original:
+  colors:
+  - yellow
+  - purple
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: original
+over-bearing:
+  colors:
+  - red
+  - orange
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: over-bearing
+over-cautious:
+  colors:
+  - green
+  - pink
+  - white
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: false
+  text: over-cautious
+over-emotional:
+  colors:
+  - pink
+  - turquoise
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: over-emotional
+overly_analytical:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: false
+  text: overly analytical
+overly_proud:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: false
+  text: overly_proud
+overwhelming:
+  colors:
+  - magenta
+  importance:
+  - 0
+  positive: false
+  text: overwhelming
+passionate:
+  colors:
+  - red
+  - gold
+  - pink
+  - magenta
+  importance:
+  - 2
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: passionate
+patient:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: true
+  text: patient
+peace:
+  colors:
+  - green
+  - blue
+  - turquoise
+  - magenta
+  - white
+  importance:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: peace
+peace_of_mind:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: true
+  text: peace of mind
+perceptive:
+  colors:
+  - indigo
+  - turquoise
+  importance:
+  - 2
+  - 0
+  positive: true
+  text: perceptive
+pessimistic:
+  colors:
+  - orange
+  - yellow
+  - black
+  importance:
+  - 0
+  - 0
+  - 1
+  positive: false
+  text: pessimistic
+physical_desires:
+  colors:
+  - red
+  importance:
+  - 1
+  positive: true
+  text: physical desires
+physically_weak:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: false
+  text: physically weak
+plain:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: false
+  text: plain
+pompous_and_arrogant:
+  colors:
+  - purple
+  - magenta
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: pompous and arrogant
+positive:
+  colors:
+  - gold
+  - red
+  - green
+  - pink
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: positive
+possessive_and_materialistic:
+  colors:
+  - green
+  - brown
+  importance:
+  - 1
+  - 2
+  positive: false
+  text: possessive and materialistic
+powerful:
+  colors:
+  - red
+  - black
+  - indigo
+  - purple
+  - magenta
+  importance:
+  - 0
+  - 1
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: powerful
+practical:
+  colors:
+  - green
+  - magenta
+  - brown
+  - grey
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: practical
+predictable:
+  colors:
+  - blue
+  - brown
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: predictable
+prestige:
+  colors:
+  - gold
+  - silver
+  importance:
+  - 1
+  - 1
+  positive: true
+  text: prestige
+pristine:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: true
+  text: pristine
+professional:
+  colors:
+  - grey
+  - blue
+  - black
+  - brown
+  importance:
+  - 1
+  - 2
+  - 0
+  - 0
+  positive: true
+  text: professional
+prosperity:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: prosperity
+protective:
+  colors:
+  - brown
+  - black
+  - white
+  importance:
+  - 2
+  - 2
+  - 0
+  positive: true
+  text: protective
+psychic:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: true
+  text: psychic
+pure:
+  colors:
+  - white
+  - pink
+  - silver
+  importance:
+  - 2
+  - 0
+  - 0
+  positive: true
+  text: pure
+quality:
+  colors:
+  - brown
+  - gold
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: quality
+quick_decisions:
+  colors:
+  - yellow
+  - turquoise
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: quick decisions
+quiet:
+  colors:
+  - grey
+  importance:
+  - 0
+  positive: true
+  text: quiet
+reassured:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: true
+  text: reassured
+rebellious_and_obstinate:
+  colors:
+  - red
+  importance:
+  - 0
+  positive: false
+  text: rebellious and obstinate
+reflective:
+  colors:
+  - silver
+  - white
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: reflective/reflect on a change or self
+regulations:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: true
+  text: regulations
+rejuvenating:
+  colors:
+  - yellow
+  - green
+  importance:
+  - 1
+  - 1
+  positive: true
+  text: rejuvenating
+relaxing:
+  colors:
+  - green
+  - blue
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: relaxing/removes stress
+reliable_and_responsible:
+  colors:
+  - green
+  - blue
+  - indigo
+  - brown
+  - silver
+  - grey
+  importance:
+  - 0
+  - 2
+  - 0
+  - 0
+  - 1
+  - 0
+  positive: true
+  text: reliable and responsible
+religious:
+  colors:
+  - blue
+  - indigo
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: religious
+removes_angriness_and_aggression:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: true
+  text: removes angriness and aggression
+renewal_and_restoration:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: true
+  text: renewal and restoration
+rescuer:
+  colors:
+  - white
+  importance:
+  - 1
+  positive: true
+  text: rescuer
+resentful:
+  colors:
+  - red
+  importance:
+  - 0
+  positive: false
+  text: resentful
+reserved:
+  colors:
+  - grey
+  - blue
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: reserved
+respectable:
+  colors:
+  - silver
+  - purple
+  importance:
+  - 0
+  - 1
+  positive: true
+  text: respectable
+reticent:
+  colors:
+  - turquoise
+  importance:
+  - 0
+  positive: false
+  text: reticent
+rigid:
+  colors:
+  - blue
+  - silver
+  importance:
+  - 1
+  - 0
+  positive: false
+  text: rigid
+risk-taking:
+  colors:
+  - orange
+  importance:
+  - 1
+  positive: true
+  text: risk-taking
+romantic:
+  colors:
+  - pink
+  - red
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: romantic
+ruthless:
+  colors:
+  - red
+  importance:
+  - 0
+  positive: false
+  text: ruthless
+safe_and_non-threatening:
+  colors:
+  - blue
+  - pink
+  - grey
+  importance:
+  - 0
+  - 1
+  - 0
+  positive: true
+  text: safe and non-threatening
+scientific:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: true
+  text: scientific
+secretive:
+  colors:
+  - turquoise
+  - black
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: secretive
+secure:
+  colors:
+  - blue
+  - brown
+  importance:
+  - 0
+  - 2
+  positive: true
+  text: secure
+self-assured:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: true
+  text: self-assured
+self-centred:
+  colors:
+  - gold
+  - turquoise
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: self-centred
+self-indulgent:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: false
+  text: self-indulgent
+self-respect:
+  colors:
+  - magenta
+  - orange
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: self-respect
+self-righteous:
+  colors:
+  - blue
+  - indigo
+  - gold
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: false
+  text: self-righteous
+self-sufficient:
+  colors:
+  - turquoise
+  - white
+  importance:
+  - 1
+  - 0
+  positive: true
+  text: self-sufficient
+self-worth:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: self-worth
+self_control:
+  colors:
+  - silver
+  - black
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: self control
+self_esteem:
+  colors:
+  - turquoise
+  importance:
+  - 0
+  positive: true
+  text: builds self esteem
+selfish:
+  colors:
+  - green
+  - gold
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: selfish
+selfless:
+  colors:
+  - indigo
+  - purple
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: selfless
+sensitive:
+  colors:
+  - brown
+  - purple
+  - turquoise
+  - pink
+  - silver
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: sensitive
+sensual:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: true
+  text: sensual
+serious:
+  colors:
+  - black
+  - brown
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: serious
+sexual_and_lust:
+  colors:
+  - red
+  importance:
+  - 0
+  positive: true
+  text: sexual and lust
+sexy_and_seductive:
+  colors:
+  - black
+  - red
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: sexy and seductive
+silly:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: false
+  text: silly
+simple:
+  colors:
+  - white
+  - brown
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: simple
+sincere:
+  colors:
+  - indigo
+  - brown
+  - blue
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: sincere/sincerity
+sleek:
+  colors:
+  - silver
+  importance:
+  - 0
+  positive: true
+  text: sleek
+sociable:
+  colors:
+  - orange
+  importance:
+  - 2
+  positive: true
+  text: sociable
+solid:
+  colors:
+  - grey
+  - brown
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: solid
+soothing:
+  colors:
+  - silver
+  importance:
+  - 1
+  positive: true
+  text: soothing
+sophisticated:
+  colors:
+  - black
+  - silver
+  - gold
+  importance:
+  - 1
+  - 0
+  - 0
+  positive: true
+  text: sophisticated
+spiritual:
+  colors:
+  - magenta
+  - blue
+  - purple
+  - turquoise
+  - gold
+  importance:
+  - 0
+  - 0
+  - 2
+  - 0
+  - 0
+  positive: true
+  text: spiritual
+spiteful:
+  colors:
+  - yellow
+  importance:
+  - 0
+  positive: false
+  text: spiteful
+spontaneous:
+  colors:
+  - red
+  - magenta
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: spontaneous
+stable:
+  colors:
+  - brown
+  - grey
+  - green
+  - purple
+  importance:
+  - 1
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: stable
+stark:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: false
+  text: stark
+status:
+  colors:
+  - gold
+  importance:
+  - 2
+  positive: true
+  text: status
+sterile:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: false
+  text: sterile
+strong:
+  colors:
+  - red
+  - brown
+  - black
+  - purple
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: strong
+strong_will:
+  colors:
+  - red
+  - black
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: strong_will
+structure:
+  colors:
+  - indigo
+  - brown
+  importance:
+  - 1
+  - 1
+  positive: true
+  text: structure
+subdued:
+  colors:
+  - grey
+  importance:
+  - 0
+  positive: false
+  text: subdued
+successful:
+  colors:
+  - gold
+  importance:
+  - 2
+  positive: true
+  text: successful
+superficial_and_insincere:
+  colors:
+  - orange
+  - silver
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: superficial and insincere
+superstitious:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: false
+  text: superstitious
+supportive:
+  colors:
+  - magenta
+  - brown
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: supportive
+sweet:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: true
+  text: sweet
+sympathetic:
+  colors:
+  - green
+  importance:
+  - 0
+  positive: true
+  text: sympathetic
+tactful:
+  colors:
+  - green
+  - blue
+  importance:
+  - 0
+  - 0
+  positive: true
+  text: tactful
+tiring:
+  colors:
+  - red
+  importance:
+  - 0
+  positive: false
+  text: tiring
+too_conservative_and_old-fashioned:
+  colors:
+  - blue
+  - black
+  importance:
+  - 0
+  - 0
+  positive: false
+  text: too conservative and old-fashioned
+too_passive:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: false
+  text: too passive
+traditions_and_rituals:
+  colors:
+  - indigo
+  importance:
+  - 0
+  positive: true
+  text: traditions and rituals
+triumph:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: triumph
+trustworthy:
+  colors:
+  - blue
+  - brown
+  importance:
+  - 2
+  - 0
+  positive: true
+  text: trustworthy
+truthful:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: true
+  text: truthful/speaking the truth
+unapproachable:
+  colors:
+  - black
+  importance:
+  - 0
+  positive: false
+  text: unapproachable
+unfaithfulness:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: false
+  text: unfaithfulness
+unforgiving:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: false
+  text: unforgiving
+unfriendly:
+  colors:
+  - black
+  importance:
+  - 0
+  positive: false
+  text: unfriendly
+unimaginative:
+  colors:
+  - white
+  importance:
+  - 0
+  positive: false
+  text: unimaginative
+unique_and_individual:
+  colors:
+  - purple
+  importance:
+  - 1
+  positive: true
+  text: likes to be unique and individual
+unity:
+  colors:
+  - white
+  importance:
+  - 1
+  positive: true
+  text: unity
+unlimited:
+  colors:
+  - purple
+  importance:
+  - 0
+  positive: true
+  text: unlimited
+unrealistic_expectations:
+  colors:
+  - pink
+  importance:
+  - 0
+  positive: false
+  text: unrealistic expectations
+unreliable:
+  colors:
+  - turquoise
+  importance:
+  - 0
+  positive: false
+  text: unreliable
+unsophisticated:
+  colors:
+  - brown
+  importance:
+  - 0
+  positive: false
+  text: unsophisticated/lack of sophistication
+untrustful:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: false
+  text: lack of trust/untrustful
+uplifting:
+  colors:
+  - yellow
+  - turquoise
+  - magenta
+  importance:
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: uplifting
+value:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: value/valuable
+violent_and_brutal:
+  colors:
+  - red
+  importance:
+  - 0
+  positive: false
+  text: violent and brutal
+warm:
+  colors:
+  - pink
+  - brown
+  - red
+  - orange
+  - gold
+  importance:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  positive: true
+  text: warm
+warm-hearted:
+  colors:
+  - orange
+  importance:
+  - 0
+  positive: true
+  text: warm-hearted
+weak:
+  colors:
+  - blue
+  importance:
+  - 0
+  positive: false
+  text: weak
+wealthy:
+  colors:
+  - gold
+  - green
+  - purple
+  - brown
+  - silver
+  importance:
+  - 2
+  - 0
+  - 0
+  - 2
+  - 1
+  positive: true
+  text: wealthy
+wholesome:
+  colors:
+  - brown
+  importance:
+  - 1
+  positive: true
+  text: wholesome
+win:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: win/winner
+winning:
+  colors:
+  - gold
+  importance:
+  - 0
+  positive: true
+  text: winning
+wise:
+  colors:
+  - yellow
+  - silver
+  - gold
+  - blue
+  - indigo
+  - purple
+  importance:
+  - 0
+  - 0
+  - 0
+  - 1
+  - 1
+  - 0
+  positive: true
+  text: wise
+withholding:
+  colors:
+  - black
+  importance:
+  - 0
+  positive: false
+  text: withholding

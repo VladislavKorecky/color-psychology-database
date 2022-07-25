@@ -1,0 +1,4018 @@
+{
+    "active": {
+        "positive": true,
+        "text": "need for action/active",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            2
+        ]
+    },
+    "attention-getting": {
+        "positive": true,
+        "text": "attention-getting",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "assertive": {
+        "positive": true,
+        "text": "assertive",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "energising_and_stimulating": {
+        "positive": true,
+        "text": "energising and stimulating",
+        "colors": [
+            "red",
+            "orange",
+            "magenta"
+        ],
+        "importance": [
+            2,
+            1,
+            0
+        ]
+    },
+    "exciting": {
+        "positive": true,
+        "text": "exciting",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "powerful": {
+        "positive": true,
+        "text": "powerful",
+        "colors": [
+            "red",
+            "black",
+            "indigo",
+            "purple",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "passionate": {
+        "positive": true,
+        "text": "passionate",
+        "colors": [
+            "red",
+            "gold",
+            "pink",
+            "magenta"
+        ],
+        "importance": [
+            2,
+            0,
+            0,
+            0
+        ]
+    },
+    "courageous": {
+        "positive": true,
+        "text": "courageous",
+        "colors": [
+            "red",
+            "orange"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "strong": {
+        "positive": true,
+        "text": "strong",
+        "colors": [
+            "red",
+            "brown",
+            "black",
+            "purple"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "spontaneous": {
+        "positive": true,
+        "text": "spontaneous",
+        "colors": [
+            "red",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "determined": {
+        "positive": true,
+        "text": "determined",
+        "colors": [
+            "red",
+            "blue",
+            "silver"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "aggressive": {
+        "positive": false,
+        "text": "aggressive",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "domineering": {
+        "positive": false,
+        "text": "domineering",
+        "colors": [
+            "red",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "over-bearing": {
+        "positive": false,
+        "text": "over-bearing",
+        "colors": [
+            "red",
+            "orange"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "tiring": {
+        "positive": false,
+        "text": "tiring",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "angry_and_quick-tempered": {
+        "positive": false,
+        "text": "angry and quick-tempered",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "ruthless": {
+        "positive": false,
+        "text": "ruthless",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "fearful": {
+        "positive": false,
+        "text": "fearful",
+        "colors": [
+            "red",
+            "indigo",
+            "black"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "intolerant": {
+        "positive": false,
+        "text": "intolerant",
+        "colors": [
+            "red",
+            "indigo",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "rebellious_and_obstinate": {
+        "positive": false,
+        "text": "rebellious and obstinate",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "resentful": {
+        "positive": false,
+        "text": "resentful",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "violent_and_brutal": {
+        "positive": false,
+        "text": "violent and brutal",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "sexual_and_lust": {
+        "positive": true,
+        "text": "sexual and lust",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "sociable": {
+        "positive": true,
+        "text": "sociable",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            2
+        ]
+    },
+    "optimistic": {
+        "positive": true,
+        "text": "optimistic",
+        "colors": [
+            "orange",
+            "yellow",
+            "gold",
+            "green",
+            "magenta",
+            "silver"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "enthusiastic": {
+        "positive": true,
+        "text": "enthusiastic",
+        "colors": [
+            "orange",
+            "yellow"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "cheerful": {
+        "positive": true,
+        "text": "cheerful",
+        "colors": [
+            "orange",
+            "yellow",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "confident": {
+        "positive": true,
+        "text": "confident",
+        "colors": [
+            "red",
+            "orange",
+            "yellow",
+            "green",
+            "blue",
+            "turquoise",
+            "brown",
+            "gold",
+            "black"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "independent": {
+        "positive": true,
+        "text": "independent",
+        "colors": [
+            "orange",
+            "purple",
+            "white",
+            "black"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "flamboyant": {
+        "positive": true,
+        "text": "flamboyant",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "extroverted_and_uninhibited": {
+        "positive": true,
+        "text": "extroverted and uninhibited",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "adventurous": {
+        "positive": true,
+        "text": "adventurous",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            2
+        ]
+    },
+    "risk-taking": {
+        "positive": true,
+        "text": "risk-taking",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "creative": {
+        "positive": true,
+        "text": "creative",
+        "colors": [
+            "orange",
+            "yellow",
+            "purple",
+            "turquoise",
+            "magenta",
+            "indigo",
+            "white"
+        ],
+        "importance": [
+            0,
+            1,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "warm-hearted": {
+        "positive": true,
+        "text": "warm-hearted",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "agreeable": {
+        "positive": true,
+        "text": "agreeable",
+        "colors": [
+            "orange",
+            "green"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "informal": {
+        "positive": true,
+        "text": "informal",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "superficial_and_insincere": {
+        "positive": false,
+        "text": "superficial and insincere",
+        "colors": [
+            "orange",
+            "silver"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "dependent": {
+        "positive": false,
+        "text": "dependent",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "self-indulgent": {
+        "positive": false,
+        "text": "self-indulgent",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "exhibitionist": {
+        "positive": false,
+        "text": "exhibitionist",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "pessimistic": {
+        "positive": false,
+        "text": "pessimistic",
+        "colors": [
+            "orange",
+            "yellow",
+            "black"
+        ],
+        "importance": [
+            0,
+            0,
+            1
+        ]
+    },
+    "inexpensive": {
+        "positive": false,
+        "text": "inexpensive",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "overly_proud": {
+        "positive": false,
+        "text": "overly_proud",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "fun": {
+        "positive": true,
+        "text": "fun",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "good-humored": {
+        "positive": true,
+        "text": "good-humored",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "original": {
+        "positive": true,
+        "text": "original",
+        "colors": [
+            "yellow",
+            "purple"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "challenging": {
+        "positive": true,
+        "text": "challenging",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "academic_and_analytical": {
+        "positive": true,
+        "text": "academic and analytical",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "wise": {
+        "positive": true,
+        "text": "wise",
+        "colors": [
+            "yellow",
+            "silver",
+            "gold",
+            "blue",
+            "indigo",
+            "purple"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            1,
+            1,
+            0
+        ]
+    },
+    "logical": {
+        "positive": true,
+        "text": "logical",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "critical": {
+        "positive": false,
+        "text": "critical",
+        "colors": [
+            "yellow",
+            "white"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "judgmental": {
+        "positive": false,
+        "text": "judgmental",
+        "colors": [
+            "yellow",
+            "indigo",
+            "green"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "overly_analytical": {
+        "positive": false,
+        "text": "overly analytical",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "impatient": {
+        "positive": false,
+        "text": "impatient",
+        "colors": [
+            "yellow",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "impulsive": {
+        "positive": false,
+        "text": "impulsive",
+        "colors": [
+            "yellow",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "egotistical": {
+        "positive": false,
+        "text": "egotistical",
+        "colors": [
+            "yellow",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "inferiority_complex": {
+        "positive": false,
+        "text": "inferiority complex",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "spiteful": {
+        "positive": false,
+        "text": "spiteful",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "cowardly": {
+        "positive": false,
+        "text": "cowardly",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "deceitful": {
+        "positive": false,
+        "text": "deceitful",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "non-emotional": {
+        "positive": false,
+        "text": "non-emotional",
+        "colors": [
+            "yellow",
+            "grey",
+            "turquoise"
+        ],
+        "importance": [
+            1,
+            1,
+            1
+        ]
+    },
+    "lacking_compassion": {
+        "positive": false,
+        "text": "lacking compassion",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "growth": {
+        "positive": true,
+        "text": "growth",
+        "colors": [
+            "green",
+            "turquoise",
+            "white"
+        ],
+        "importance": [
+            2,
+            0,
+            0
+        ]
+    },
+    "renewal_and_restoration": {
+        "positive": true,
+        "text": "renewal and restoration",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "reliable_and_responsible": {
+        "positive": true,
+        "text": "reliable and responsible",
+        "colors": [
+            "green",
+            "blue",
+            "indigo",
+            "brown",
+            "silver",
+            "grey"
+        ],
+        "importance": [
+            0,
+            2,
+            0,
+            0,
+            1,
+            0
+        ]
+    },
+    "tactful": {
+        "positive": true,
+        "text": "tactful",
+        "colors": [
+            "green",
+            "blue"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "calm": {
+        "positive": true,
+        "text": "calm",
+        "colors": [
+            "green",
+            "blue",
+            "turquoise",
+            "pink",
+            "grey",
+            "silver",
+            "magenta",
+            "brown",
+            "white"
+        ],
+        "importance": [
+            0,
+            1,
+            1,
+            1,
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "nature_lover": {
+        "positive": true,
+        "text": "nature lover",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "practical": {
+        "positive": true,
+        "text": "practical",
+        "colors": [
+            "green",
+            "magenta",
+            "brown",
+            "grey"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "down_to_earth": {
+        "positive": true,
+        "text": "down to earth",
+        "colors": [
+            "green",
+            "brown"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "sympathetic": {
+        "positive": true,
+        "text": "sympathetic",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "caring_and_nurturing": {
+        "positive": true,
+        "text": "caring and nurturing",
+        "colors": [
+            "green",
+            "blue",
+            "pink",
+            "turquoise",
+            "magenta"
+        ],
+        "importance": [
+            1,
+            0,
+            2,
+            0,
+            0
+        ]
+    },
+    "generous": {
+        "positive": true,
+        "text": "generous",
+        "colors": [
+            "green",
+            "gold"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "kind": {
+        "positive": true,
+        "text": "kind",
+        "colors": [
+            "green",
+            "magenta",
+            "pink"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "loyal": {
+        "positive": true,
+        "text": "loyal",
+        "colors": [
+            "green",
+            "blue",
+            "brown"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "adaptable": {
+        "positive": true,
+        "text": "adaptable",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "need_to_belong": {
+        "positive": true,
+        "text": "need to belong",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "possessive_and_materialistic": {
+        "positive": false,
+        "text": "possessive and materialistic",
+        "colors": [
+            "green",
+            "brown"
+        ],
+        "importance": [
+            1,
+            2
+        ]
+    },
+    "indifferent": {
+        "positive": false,
+        "text": "indifferent",
+        "colors": [
+            "green",
+            "grey"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "over-cautious": {
+        "positive": false,
+        "text": "over-cautious",
+        "colors": [
+            "green",
+            "pink",
+            "white"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "envious": {
+        "positive": false,
+        "text": "envious",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "selfish": {
+        "positive": false,
+        "text": "selfish",
+        "colors": [
+            "green",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "greedy": {
+        "positive": false,
+        "text": "greedy",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "devious_with_money": {
+        "positive": false,
+        "text": "devious with money",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "inconsiderate": {
+        "positive": false,
+        "text": "inconsiderate",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "inexperienced": {
+        "positive": false,
+        "text": "inexperienced",
+        "colors": [
+            "green",
+            "pink"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "trustworthy": {
+        "positive": true,
+        "text": "trustworthy",
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "importance": [
+            2,
+            0
+        ]
+    },
+    "conservative": {
+        "positive": true,
+        "text": "conservative",
+        "colors": [
+            "blue",
+            "grey"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "idealistic": {
+        "positive": true,
+        "text": "idealistic",
+        "colors": [
+            "blue",
+            "indigo",
+            "turquoise"
+        ],
+        "importance": [
+            0,
+            1,
+            0
+        ]
+    },
+    "orderly": {
+        "positive": true,
+        "text": "orderly",
+        "colors": [
+            "blue",
+            "indigo"
+        ],
+        "importance": [
+            1,
+            1
+        ]
+    },
+    "authority": {
+        "positive": true,
+        "text": "authority",
+        "colors": [
+            "blue",
+            "black"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "rigid": {
+        "positive": false,
+        "text": "rigid",
+        "colors": [
+            "blue",
+            "silver"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "deceitful_and_spiteful": {
+        "positive": false,
+        "text": "deceitful and spiteful",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "depressed_and_sad": {
+        "positive": false,
+        "text": "depressed and sad",
+        "colors": [
+            "blue",
+            "indigo",
+            "grey",
+            "black",
+            "purple",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0,
+            1,
+            1,
+            0,
+            0
+        ]
+    },
+    "too_passive": {
+        "positive": false,
+        "text": "too passive",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "self-righteous": {
+        "positive": false,
+        "text": "self-righteous",
+        "colors": [
+            "blue",
+            "indigo",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "superstitious": {
+        "positive": false,
+        "text": "superstitious",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "emotionally_unstable": {
+        "positive": false,
+        "text": "emotionally unstable",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "too_conservative_and_old-fashioned": {
+        "positive": false,
+        "text": "too conservative and old-fashioned",
+        "colors": [
+            "blue",
+            "black"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "predictable": {
+        "positive": true,
+        "text": "predictable",
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "weak": {
+        "positive": false,
+        "text": "weak",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unforgiving": {
+        "positive": false,
+        "text": "unforgiving",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "aloof_and_frigid": {
+        "positive": false,
+        "text": "aloof and frigid",
+        "colors": [
+            "blue",
+            "purple",
+            "turquoise",
+            "black"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "manipulative": {
+        "positive": false,
+        "text": "manipulative",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unfaithfulness": {
+        "positive": false,
+        "text": "unfaithfulness",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "integrity": {
+        "positive": true,
+        "text": "integrity",
+        "colors": [
+            "indigo",
+            "blue",
+            "purple"
+        ],
+        "importance": [
+            1,
+            0,
+            0
+        ]
+    },
+    "sincere": {
+        "positive": true,
+        "text": "sincere/sincerity",
+        "colors": [
+            "indigo",
+            "brown",
+            "blue"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "structure": {
+        "positive": true,
+        "text": "structure",
+        "colors": [
+            "indigo",
+            "brown"
+        ],
+        "importance": [
+            1,
+            1
+        ]
+    },
+    "regulations": {
+        "positive": true,
+        "text": "regulations",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "obedient": {
+        "positive": true,
+        "text": "obedient",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "intuition": {
+        "positive": true,
+        "text": "intuition/intuitive",
+        "colors": [
+            "indigo",
+            "purple",
+            "turquoise",
+            "pink",
+            "magenta"
+        ],
+        "importance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "faithful": {
+        "positive": true,
+        "text": "faithful",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "selfless": {
+        "positive": true,
+        "text": "selfless",
+        "colors": [
+            "indigo",
+            "purple"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "fanatical": {
+        "positive": false,
+        "text": "fanatical",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "impractical": {
+        "positive": false,
+        "text": "impractical",
+        "colors": [
+            "indigo",
+            "purple"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "conformity": {
+        "positive": false,
+        "text": "conformity",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "addictive": {
+        "positive": false,
+        "text": "addiction invoking/addictive",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "bigoted": {
+        "positive": false,
+        "text": "bigoted",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "avoiding_conflict": {
+        "positive": false,
+        "text": "avoiding conflict",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "psychic": {
+        "positive": true,
+        "text": "psychic",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "humanitarian": {
+        "positive": true,
+        "text": "humanitarian",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unlimited": {
+        "positive": true,
+        "text": "unlimited",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "mysterious": {
+        "positive": true,
+        "text": "mysterious",
+        "colors": [
+            "purple",
+            "black",
+            "silver"
+        ],
+        "importance": [
+            0,
+            2,
+            0
+        ]
+    },
+    "fantasy": {
+        "positive": true,
+        "text": "fantasy",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "future_state_of_mind": {
+        "positive": true,
+        "text": "future state of mind/dreams",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "futuristic": {
+        "positive": true,
+        "text": "futuristic",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "immature": {
+        "positive": false,
+        "text": "immature",
+        "colors": [
+            "purple",
+            "pink"
+        ],
+        "importance": [
+            1,
+            1
+        ]
+    },
+    "cynical": {
+        "positive": false,
+        "text": "cynical",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "pompous_and_arrogant": {
+        "positive": false,
+        "text": "pompous and arrogant",
+        "colors": [
+            "purple",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "fraudulent_and_corrupt": {
+        "positive": false,
+        "text": "fraudulent and corrupt",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "delusions_of_grandeur": {
+        "positive": false,
+        "text": "delusions of grandeur",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "communicative": {
+        "positive": true,
+        "text": "communicative",
+        "colors": [
+            "turquoise",
+            "orange",
+            "yellow",
+            "blue"
+        ],
+        "importance": [
+            2,
+            2,
+            1,
+            1
+        ]
+    },
+    "clarity_of_thought": {
+        "positive": true,
+        "text": "clarity of thought",
+        "colors": [
+            "turquoise",
+            "yellow",
+            "green"
+        ],
+        "importance": [
+            2,
+            0,
+            0
+        ]
+    },
+    "emotional_balance_and_harmony": {
+        "positive": true,
+        "text": "emotional balance and harmony",
+        "colors": [
+            "turquoise",
+            "magenta",
+            "green",
+            "purple"
+        ],
+        "importance": [
+            0,
+            2,
+            2,
+            0
+        ]
+    },
+    "compassion_and_understanding": {
+        "positive": true,
+        "text": "compassion and understanding",
+        "colors": [
+            "turquoise",
+            "pink",
+            "magenta",
+            "gold",
+            "silver"
+        ],
+        "importance": [
+            0,
+            1,
+            1,
+            1,
+            0
+        ]
+    },
+    "healing": {
+        "positive": true,
+        "text": "healing",
+        "colors": [
+            "turquoise"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "self-sufficient": {
+        "positive": true,
+        "text": "self-sufficient",
+        "colors": [
+            "turquoise",
+            "white"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "boastful": {
+        "positive": false,
+        "text": "boastful",
+        "colors": [
+            "turquoise"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "secretive": {
+        "positive": true,
+        "text": "secretive",
+        "colors": [
+            "turquoise",
+            "black"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "unreliable": {
+        "positive": false,
+        "text": "unreliable",
+        "colors": [
+            "turquoise"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "reticent": {
+        "positive": false,
+        "text": "reticent",
+        "colors": [
+            "turquoise"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "fence-sitter": {
+        "positive": false,
+        "text": "fence-sitter",
+        "colors": [
+            "turquoise",
+            "grey"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "deceptive": {
+        "positive": false,
+        "text": "deceptive",
+        "colors": [
+            "turquoise",
+            "silver"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "love": {
+        "positive": true,
+        "text": "love",
+        "colors": [
+            "pink",
+            "red",
+            "magenta",
+            "gold",
+            "purple"
+        ],
+        "importance": [
+            2,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "romantic": {
+        "positive": true,
+        "text": "romantic",
+        "colors": [
+            "pink",
+            "red"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "warm": {
+        "positive": true,
+        "text": "warm",
+        "colors": [
+            "pink",
+            "brown",
+            "red",
+            "orange",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "hopeful": {
+        "positive": true,
+        "text": "hopeful",
+        "colors": [
+            "pink",
+            "yellow",
+            "green",
+            "white"
+        ],
+        "importance": [
+            1,
+            0,
+            1,
+            0
+        ]
+    },
+    "sweet": {
+        "positive": true,
+        "text": "sweet",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "feminine": {
+        "positive": true,
+        "text": "feminine",
+        "colors": [
+            "pink",
+            "silver"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "physically_weak": {
+        "positive": false,
+        "text": "physically weak",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "over-emotional": {
+        "positive": false,
+        "text": "over-emotional",
+        "colors": [
+            "pink",
+            "turquoise"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "emotional_neediness": {
+        "positive": false,
+        "text": "emotional neediness",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unrealistic_expectations": {
+        "positive": false,
+        "text": "unrealistic expectations",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "naive": {
+        "positive": false,
+        "text": "naive",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "girlish": {
+        "positive": false,
+        "text": "girlish",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "lack_of_will_power": {
+        "positive": false,
+        "text": "lack of will power",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "lack_of_self_worth": {
+        "positive": false,
+        "text": "lack of self worth",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "helps_the_spirit_soar": {
+        "positive": true,
+        "text": "helps the spirit soar",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "spiritual": {
+        "positive": true,
+        "text": "spiritual",
+        "colors": [
+            "magenta",
+            "blue",
+            "purple",
+            "turquoise",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0,
+            2,
+            0,
+            0
+        ]
+    },
+    "common_sense": {
+        "positive": true,
+        "text": "encourages common sense",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "supportive": {
+        "positive": true,
+        "text": "supportive",
+        "colors": [
+            "magenta",
+            "brown"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "imaginative": {
+        "positive": true,
+        "text": "imaginative",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "innovative": {
+        "positive": true,
+        "text": "innovative",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "artistic": {
+        "positive": true,
+        "text": "artistic",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "non-conformist": {
+        "positive": true,
+        "text": "non-conformist",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "negotiator": {
+        "positive": true,
+        "text": "negotiator",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "avoids_challenges": {
+        "positive": false,
+        "text": "avoids challenges",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "disconnected_to_others": {
+        "positive": false,
+        "text": "disconnected_to_others",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "bossy": {
+        "positive": false,
+        "text": "bossy",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "demanding": {
+        "positive": false,
+        "text": "demanding",
+        "colors": [
+            "magenta",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "wholesome": {
+        "positive": true,
+        "text": "wholesome",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "approachable": {
+        "positive": true,
+        "text": "approachable",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "friendly": {
+        "positive": true,
+        "text": "friendly",
+        "colors": [
+            "brown",
+            "green",
+            "turquoise",
+            "orange"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            1
+        ]
+    },
+    "stable": {
+        "positive": true,
+        "text": "stable",
+        "colors": [
+            "brown",
+            "grey",
+            "green",
+            "purple"
+        ],
+        "importance": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "comforting": {
+        "positive": true,
+        "text": "comforting",
+        "colors": [
+            "brown",
+            "black",
+            "pink",
+            "white"
+        ],
+        "importance": [
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "protective": {
+        "positive": true,
+        "text": "protective",
+        "colors": [
+            "brown",
+            "black",
+            "white"
+        ],
+        "importance": [
+            2,
+            2,
+            0
+        ]
+    },
+    "sensual": {
+        "positive": true,
+        "text": "sensual",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "sensitive": {
+        "positive": true,
+        "text": "sensitive",
+        "colors": [
+            "brown",
+            "purple",
+            "turquoise",
+            "pink",
+            "silver"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "reassured": {
+        "positive": true,
+        "text": "reassured",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "honest": {
+        "positive": true,
+        "text": "honest",
+        "colors": [
+            "brown",
+            "blue"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "quality": {
+        "positive": true,
+        "text": "quality",
+        "colors": [
+            "brown",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "dull": {
+        "positive": false,
+        "text": "dull",
+        "colors": [
+            "brown",
+            "silver",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "boring": {
+        "positive": false,
+        "text": "boring",
+        "colors": [
+            "brown",
+            "grey",
+            "white"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "frugal": {
+        "positive": false,
+        "text": "frugal",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "lack_of_humor": {
+        "positive": false,
+        "text": "lack of humor",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unsophisticated": {
+        "positive": false,
+        "text": "unsophisticated/lack of sophistication",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "cheap_and_stingy": {
+        "positive": false,
+        "text": "cheap and stingy",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "dignified": {
+        "positive": true,
+        "text": "dignified",
+        "colors": [
+            "grey",
+            "silver",
+            "indigo",
+            "purple",
+            "black"
+        ],
+        "importance": [
+            0,
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "neutral": {
+        "positive": true,
+        "text": "neutral",
+        "colors": [
+            "grey",
+            "silver",
+            "white"
+        ],
+        "importance": [
+            1,
+            0,
+            0
+        ]
+    },
+    "impartial": {
+        "positive": true,
+        "text": "impartial",
+        "colors": [
+            "grey",
+            "white"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "professional": {
+        "positive": true,
+        "text": "professional",
+        "colors": [
+            "grey",
+            "blue",
+            "black",
+            "brown"
+        ],
+        "importance": [
+            1,
+            2,
+            0,
+            0
+        ]
+    },
+    "mature": {
+        "positive": true,
+        "text": "mature",
+        "colors": [
+            "grey",
+            "brown",
+            "silver"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "intelligent": {
+        "positive": true,
+        "text": "intelligent",
+        "colors": [
+            "grey",
+            "yellow",
+            "blue"
+        ],
+        "importance": [
+            0,
+            2,
+            0
+        ]
+    },
+    "classic": {
+        "positive": true,
+        "text": "classic",
+        "colors": [
+            "grey"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "solid": {
+        "positive": true,
+        "text": "solid",
+        "colors": [
+            "grey",
+            "brown"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "subdued": {
+        "positive": false,
+        "text": "subdued",
+        "colors": [
+            "grey"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "reserved": {
+        "positive": true,
+        "text": "reserved",
+        "colors": [
+            "grey",
+            "blue"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "elegant": {
+        "positive": true,
+        "text": "elegant",
+        "colors": [
+            "grey",
+            "gold",
+            "black"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "formal": {
+        "positive": true,
+        "text": "formal",
+        "colors": [
+            "grey",
+            "black"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "dependable": {
+        "positive": true,
+        "text": "dependable",
+        "colors": [
+            "grey",
+            "green",
+            "brown"
+        ],
+        "importance": [
+            0,
+            1,
+            0
+        ]
+    },
+    "indecisive": {
+        "positive": false,
+        "text": "indecisive",
+        "colors": [
+            "grey",
+            "silver"
+        ],
+        "importance": [
+            2,
+            0
+        ]
+    },
+    "lifeless": {
+        "positive": false,
+        "text": "lifeless",
+        "colors": [
+            "grey",
+            "silver"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "lonely": {
+        "positive": false,
+        "text": "lonely",
+        "colors": [
+            "grey",
+            "silver"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "isolated": {
+        "positive": false,
+        "text": "isolated",
+        "colors": [
+            "grey",
+            "white"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "illuminative": {
+        "positive": true,
+        "text": "illuminative",
+        "colors": [
+            "silver",
+            "yellow"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "reflective": {
+        "positive": true,
+        "text": "reflective/reflect on a change or self",
+        "colors": [
+            "silver",
+            "white"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "soothing": {
+        "positive": true,
+        "text": "soothing",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "glamorous": {
+        "positive": true,
+        "text": "glamorous",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "self_control": {
+        "positive": true,
+        "text": "self control",
+        "colors": [
+            "silver",
+            "black"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "organised": {
+        "positive": true,
+        "text": "organised",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "insightful": {
+        "positive": true,
+        "text": "insightful",
+        "colors": [
+            "silver",
+            "green",
+            "blue",
+            "pink"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "modern": {
+        "positive": true,
+        "text": "modern",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "sleek": {
+        "positive": true,
+        "text": "sleek",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "hi-tech": {
+        "positive": true,
+        "text": "hi-tech",
+        "colors": [
+            "silver",
+            "blue"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "scientific": {
+        "positive": true,
+        "text": "scientific",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "melancholy": {
+        "positive": false,
+        "text": "melancholy",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "colorless": {
+        "positive": false,
+        "text": "colorless",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "negative": {
+        "positive": false,
+        "text": "negative",
+        "colors": [
+            "silver",
+            "black"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "successful": {
+        "positive": true,
+        "text": "successful",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            2
+        ]
+    },
+    "abundant": {
+        "positive": true,
+        "text": "abundant",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "wealthy": {
+        "positive": true,
+        "text": "wealthy",
+        "colors": [
+            "gold",
+            "green",
+            "purple",
+            "brown",
+            "silver"
+        ],
+        "importance": [
+            2,
+            0,
+            0,
+            2,
+            1
+        ]
+    },
+    "self-worth": {
+        "positive": true,
+        "text": "self-worth",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "charismatic": {
+        "positive": true,
+        "text": "charismatic",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "winning": {
+        "positive": true,
+        "text": "winning",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "positive": {
+        "positive": true,
+        "text": "positive",
+        "colors": [
+            "gold",
+            "red",
+            "green",
+            "pink"
+        ],
+        "importance": [
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "masculine": {
+        "positive": true,
+        "text": "masculine",
+        "colors": [
+            "gold",
+            "red"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "fear_of_failure": {
+        "positive": false,
+        "text": "fear of failure",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "fear_of_losing_wealth": {
+        "positive": false,
+        "text": "fear of losing wealth",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "self-centred": {
+        "positive": false,
+        "text": "self-centred",
+        "colors": [
+            "gold",
+            "turquoise"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "mean_spirited": {
+        "positive": false,
+        "text": "mean spirited",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "untrustful": {
+        "positive": false,
+        "text": "lack of trust/untrustful",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "false": {
+        "positive": false,
+        "text": "false",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "innocent": {
+        "positive": true,
+        "text": "innocent",
+        "colors": [
+            "white",
+            "pink"
+        ],
+        "importance": [
+            2,
+            0
+        ]
+    },
+    "pure": {
+        "positive": true,
+        "text": "pure",
+        "colors": [
+            "white",
+            "pink",
+            "silver"
+        ],
+        "importance": [
+            2,
+            0,
+            0
+        ]
+    },
+    "cleanliness": {
+        "positive": true,
+        "text": "cleanliness",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "equality": {
+        "positive": true,
+        "text": "equality",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "complete_and_whole": {
+        "positive": true,
+        "text": "complete and whole",
+        "colors": [
+            "white",
+            "pink"
+        ],
+        "importance": [
+            2,
+            0
+        ]
+    },
+    "simple": {
+        "positive": true,
+        "text": "simple",
+        "colors": [
+            "white",
+            "brown"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "immaculate_and_neat": {
+        "positive": true,
+        "text": "immaculate and neat",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "pristine": {
+        "positive": true,
+        "text": "pristine",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "open": {
+        "positive": true,
+        "text": "open",
+        "colors": [
+            "white",
+            "pink"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "new_beginnings": {
+        "positive": true,
+        "text": "new beginnings",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "sterile": {
+        "positive": false,
+        "text": "sterile",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "stark": {
+        "positive": false,
+        "text": "stark",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "fastidious": {
+        "positive": false,
+        "text": "fastidious",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "empty": {
+        "positive": false,
+        "text": "empty",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "plain": {
+        "positive": false,
+        "text": "plain",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "distant": {
+        "positive": false,
+        "text": "distant",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unimaginative": {
+        "positive": false,
+        "text": "unimaginative",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "contained": {
+        "positive": true,
+        "text": "contained",
+        "colors": [
+            "black"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "sophisticated": {
+        "positive": true,
+        "text": "sophisticated",
+        "colors": [
+            "black",
+            "silver",
+            "gold"
+        ],
+        "importance": [
+            1,
+            0,
+            0
+        ]
+    },
+    "sexy_and_seductive": {
+        "positive": true,
+        "text": "sexy and seductive",
+        "colors": [
+            "black",
+            "red"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "withholding": {
+        "positive": false,
+        "text": "withholding",
+        "colors": [
+            "black"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "serious": {
+        "positive": true,
+        "text": "serious",
+        "colors": [
+            "black",
+            "brown"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "control": {
+        "positive": true,
+        "text": "control",
+        "colors": [
+            "black",
+            "grey"
+        ],
+        "importance": [
+            1,
+            1
+        ]
+    },
+    "strong_will": {
+        "positive": true,
+        "text": "strong_will",
+        "colors": [
+            "red",
+            "black"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "appetite": {
+        "positive": true,
+        "text": "stimulates the appetite, food craving",
+        "colors": [
+            "red",
+            "orange"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "physical_desires": {
+        "positive": true,
+        "text": "physical desires",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "motivating": {
+        "positive": true,
+        "text": "motivating",
+        "colors": [
+            "red"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "happy": {
+        "positive": true,
+        "text": "happy",
+        "colors": [
+            "orange",
+            "yellow",
+            "turquoise",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            1,
+            0,
+            0
+        ]
+    },
+    "emotionally_strong": {
+        "positive": true,
+        "text": "emotionally strong",
+        "colors": [
+            "orange"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "uplifting": {
+        "positive": true,
+        "text": "uplifting",
+        "colors": [
+            "yellow",
+            "turquoise",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "anxious": {
+        "positive": false,
+        "text": "anxiety producing/anxious",
+        "colors": [
+            "yellow",
+            "magenta"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "highly_visible": {
+        "positive": true,
+        "text": "highly visible",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "quick_decisions": {
+        "positive": true,
+        "text": "quick decisions",
+        "colors": [
+            "yellow",
+            "turquoise"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "relaxing": {
+        "positive": true,
+        "text": "relaxing/removes stress",
+        "colors": [
+            "green",
+            "blue"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "peace": {
+        "positive": true,
+        "text": "peace",
+        "colors": [
+            "green",
+            "blue",
+            "turquoise",
+            "magenta",
+            "white"
+        ],
+        "importance": [
+            0,
+            1,
+            0,
+            0,
+            0
+        ]
+    },
+    "finance": {
+        "positive": true,
+        "text": "finance",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "secure": {
+        "positive": true,
+        "text": "secure",
+        "colors": [
+            "blue",
+            "brown"
+        ],
+        "importance": [
+            0,
+            2
+        ]
+    },
+    "truthful": {
+        "positive": true,
+        "text": "truthful/speaking the truth",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "devotion": {
+        "positive": true,
+        "text": "devotion",
+        "colors": [
+            "blue",
+            "indigo"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "safe_and_non-threatening": {
+        "positive": true,
+        "text": "safe and non-threatening",
+        "colors": [
+            "blue",
+            "pink",
+            "grey"
+        ],
+        "importance": [
+            0,
+            1,
+            0
+        ]
+    },
+    "inflexible": {
+        "positive": false,
+        "text": "inflexible/not flexible",
+        "colors": [
+            "blue",
+            "indigo"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "nostalgic": {
+        "positive": true,
+        "text": "nostalgic",
+        "colors": [
+            "blue"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "religious": {
+        "positive": true,
+        "text": "religious",
+        "colors": [
+            "blue",
+            "indigo"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "perceptive": {
+        "positive": true,
+        "text": "perceptive",
+        "colors": [
+            "indigo",
+            "turquoise"
+        ],
+        "importance": [
+            2,
+            0
+        ]
+    },
+    "concentration": {
+        "positive": true,
+        "text": "concentration",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "justice": {
+        "positive": true,
+        "text": "justice",
+        "colors": [
+            "indigo",
+            "silver"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "fair": {
+        "positive": true,
+        "text": "fair",
+        "colors": [
+            "indigo",
+            "white"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "law": {
+        "positive": true,
+        "text": "law and peoples rights",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "traditions_and_rituals": {
+        "positive": true,
+        "text": "traditions and rituals",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "dramatic": {
+        "positive": true,
+        "text": "dramatic",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "narrow-minded": {
+        "positive": false,
+        "text": "narrow-minded",
+        "colors": [
+            "indigo"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "introspective": {
+        "positive": true,
+        "text": "introspective",
+        "colors": [
+            "indigo",
+            "purple"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "imagination": {
+        "positive": true,
+        "text": "imagination",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            2
+        ]
+    },
+    "peace_of_mind": {
+        "positive": true,
+        "text": "peace of mind",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unique_and_individual": {
+        "positive": true,
+        "text": "likes to be unique and individual",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "noble": {
+        "positive": true,
+        "text": "nobel/royal",
+        "colors": [
+            "purple",
+            "gold"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "luxurious": {
+        "positive": true,
+        "text": "luxurious",
+        "colors": [
+            "gold",
+            "purple"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "demands_respect": {
+        "positive": true,
+        "text": "demands_respect",
+        "colors": [
+            "purple",
+            "pink"
+        ],
+        "importance": [
+            1,
+            0
+        ]
+    },
+    "ambitious": {
+        "positive": true,
+        "text": "ambitious",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "self-assured": {
+        "positive": true,
+        "text": "self-assured",
+        "colors": [
+            "purple"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "inspiring": {
+        "positive": true,
+        "text": "inspiring/inspirative",
+        "colors": [
+            "purple",
+            "magenta"
+        ],
+        "importance": [
+            1,
+            1
+        ]
+    },
+    "empathic": {
+        "positive": true,
+        "text": "empathic",
+        "colors": [
+            "purple",
+            "turquoise",
+            "pink"
+        ],
+        "importance": [
+            1,
+            0,
+            0
+        ]
+    },
+    "clear_thinking": {
+        "positive": true,
+        "text": "clear thinking",
+        "colors": [
+            "turquoise",
+            "yellow"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "self_esteem": {
+        "positive": true,
+        "text": "builds self esteem",
+        "colors": [
+            "turquoise"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "observation": {
+        "positive": true,
+        "text": "observation",
+        "colors": [
+            "turquoise"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "discriminatory": {
+        "positive": false,
+        "text": "discriminatory",
+        "colors": [
+            "turquoise"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "intimate": {
+        "positive": true,
+        "text": "intimate",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "removes_angriness_and_aggression": {
+        "positive": true,
+        "text": "removes angriness and aggression",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "silly": {
+        "positive": false,
+        "text": "silly",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "affectionate": {
+        "positive": true,
+        "text": "affectionate",
+        "colors": [
+            "pink"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "cooperative": {
+        "positive": true,
+        "text": "cooperative",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "self-respect": {
+        "positive": true,
+        "text": "self-respect",
+        "colors": [
+            "magenta",
+            "orange"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "overwhelming": {
+        "positive": false,
+        "text": "overwhelming",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "irritates": {
+        "positive": false,
+        "text": "irritates",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "change_and_transformation": {
+        "positive": true,
+        "text": "change and transformation",
+        "colors": [
+            "magenta"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "family_and_friends": {
+        "positive": true,
+        "text": "family and friends",
+        "colors": [
+            "green",
+            "pink",
+            "brown"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "genuine": {
+        "positive": true,
+        "text": "genuine",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "natural_and_organic": {
+        "positive": true,
+        "text": "natural and organic",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "agriculture_and_farming": {
+        "positive": true,
+        "text": "agriculture and farming",
+        "colors": [
+            "brown"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "quiet": {
+        "positive": true,
+        "text": "quiet",
+        "colors": [
+            "grey"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "emotional": {
+        "positive": true,
+        "text": "emotional",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "emotional_control": {
+        "positive": true,
+        "text": "emotional control",
+        "colors": [
+            "purple",
+            "turquoise"
+        ],
+        "importance": [
+            1,
+            1
+        ]
+    },
+    "conventional": {
+        "positive": true,
+        "text": "conventional",
+        "colors": [
+            "black",
+            "grey"
+        ],
+        "importance": [
+            0,
+            0
+        ]
+    },
+    "compromise": {
+        "positive": true,
+        "text": "compromise",
+        "colors": [
+            "grey"
+        ],
+        "importance": [
+            2
+        ]
+    },
+    "detached": {
+        "positive": false,
+        "text": "detached",
+        "colors": [
+            "white",
+            "grey"
+        ],
+        "importance": [
+            0,
+            2
+        ]
+    },
+    "respectable": {
+        "positive": true,
+        "text": "respectable",
+        "colors": [
+            "silver",
+            "purple"
+        ],
+        "importance": [
+            0,
+            1
+        ]
+    },
+    "patient": {
+        "positive": true,
+        "text": "patient",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "non-committal": {
+        "positive": false,
+        "text": "non-committal",
+        "colors": [
+            "silver"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "achievement": {
+        "positive": true,
+        "text": "achievement",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "status": {
+        "positive": true,
+        "text": "status",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            2
+        ]
+    },
+    "triumph": {
+        "positive": true,
+        "text": "triumph",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "prosperity": {
+        "positive": true,
+        "text": "prosperity",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "prestige": {
+        "positive": true,
+        "text": "prestige",
+        "colors": [
+            "gold",
+            "silver"
+        ],
+        "importance": [
+            1,
+            1
+        ]
+    },
+    "value": {
+        "positive": true,
+        "text": "value/valuable",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "knowledge": {
+        "positive": true,
+        "text": "knowledge",
+        "colors": [
+            "yellow",
+            "gold",
+            "magenta"
+        ],
+        "importance": [
+            0,
+            0,
+            0
+        ]
+    },
+    "win": {
+        "positive": true,
+        "text": "win/winner",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "lacking_kindness": {
+        "positive": false,
+        "text": "lacking kindness",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "lacking_generosity": {
+        "positive": false,
+        "text": "lacking generosity",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "enlightenment": {
+        "positive": true,
+        "text": "enlightenment",
+        "colors": [
+            "gold"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "disinterested": {
+        "positive": false,
+        "text": "disinterested",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "efficient": {
+        "positive": true,
+        "text": "efficient",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "intimidating": {
+        "positive": false,
+        "text": "intimidating",
+        "colors": [
+            "black"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unfriendly": {
+        "positive": false,
+        "text": "unfriendly",
+        "colors": [
+            "black"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "unapproachable": {
+        "positive": false,
+        "text": "unapproachable",
+        "colors": [
+            "black"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "disciplined": {
+        "positive": true,
+        "text": "disciplined",
+        "colors": [
+            "black"
+        ],
+        "importance": [
+            0
+        ]
+    },
+    "mind": {
+        "positive": true,
+        "text": "mind",
+        "colors": [
+            "yellow"
+        ],
+        "importance": [
+            2
+        ]
+    },
+    "rejuvenating": {
+        "positive": true,
+        "text": "rejuvenating",
+        "colors": [
+            "yellow",
+            "green"
+        ],
+        "importance": [
+            1,
+            1
+        ]
+    },
+    "diplomatic": {
+        "positive": true,
+        "text": "diplomatic",
+        "colors": [
+            "green"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "higher_mind": {
+        "positive": true,
+        "text": "higher mind",
+        "colors": [
+            "indigo",
+            "purple",
+            "blue"
+        ],
+        "importance": [
+            2,
+            0,
+            0
+        ]
+    },
+    "rescuer": {
+        "positive": true,
+        "text": "rescuer",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            1
+        ]
+    },
+    "unity": {
+        "positive": true,
+        "text": "unity",
+        "colors": [
+            "white"
+        ],
+        "importance": [
+            1
+        ]
+    }
+}
