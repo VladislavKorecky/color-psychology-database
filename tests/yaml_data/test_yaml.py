@@ -7,6 +7,10 @@ from tests.yaml_data import yaml_data
 
 
 def test_yaml(yaml_data):
+    """
+    Test if data from data.json is the same as data from data.yaml.
+    """
+
     json_data = get_json_data()
     assert json_data == yaml_data
 
