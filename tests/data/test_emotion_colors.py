@@ -10,9 +10,12 @@ def test_emotion_colors(emotion_data):
 
     for d in emotion_data:
         colors = d.get("colors")
+        colors_length = len(colors)
 
         assert colors is not None  # check if exists
         assert isinstance(colors, list)  # check data type
+        assert colors_length > 0  # check for empty list
+
         color_check(colors)
 
 

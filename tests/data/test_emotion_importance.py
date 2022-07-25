@@ -14,6 +14,7 @@ def test_emotion_importance(emotion_data):
 
         assert importance is not None  # check if exists
         assert isinstance(importance, list)  # check data type
+        assert importance_length > 0  # check for empty list
 
         check_importance_types(importance)
 
