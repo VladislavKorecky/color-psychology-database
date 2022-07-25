@@ -1,9 +1,6 @@
-# WARNING: do not remove tests.data imports, editors say they are unused but they are necessary!
 from json import load
 
 from os import path
-
-from tests.yaml_data import yaml_data
 
 
 def test_yaml(yaml_data):

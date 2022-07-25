@@ -1,7 +1,3 @@
-# WARNING: do not remove tests.data imports, editors say they are unused but they are necessary!
-from tests.data import data
-
-
 def test_data_types(data):
     """
     Test if keys and values of emotion items have the correct type.
