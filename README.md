@@ -1,6 +1,6 @@
 # Color Psychology Database
-Color Psychology Database is a collection of data, describing the emotions and psychological effects of colors.\
-Every color has a certain emotion and psychological effect attched to it. People and companies can utilize this to their advantage by using specific colors for logos, home/interior design, websites, apps, products, clothes and many more. This dataset was created as a computer-readible summary of these effects to help create amazing tools and apps regarding this field of psychology and design.
+Color Psychology Database is a collection of data describing the emotions and psychological effects of colors.
+Every color has a certain emotion and psychological effect attached to it. People and companies can utilize this to their advantage by using specific colors for logos, home/interior design, websites, apps, products, clothes, and many more. This dataset was created as a computer-readable summary of these effects to help create amazing tools and apps in this field of psychology and design.
 
 ## Repository description
 - **data.json** - JSON file containing the color psychology data. Visit [Data content](#data-content) for more information.
