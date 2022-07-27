@@ -1,13 +1,16 @@
 # Color Psychology Database
-Color Psychology Database is a collection of data describing the emotions and psychological effects of colors.
+**Color Psychology Database is a collection of data describing the emotions and psychological effects of colors.**
 Every color has a certain emotion and psychological effect attached to it. People and companies can utilize this to their advantage by using specific colors for logos, home/interior design, websites, apps, products, clothes, and many more. This dataset was created as a computer-readable summary of these effects to help create amazing tools and apps in this field of psychology and design.
 
 ## Repository description
-- **data.json** - JSON file containing the color psychology data. Visit [Data content](#data-content) for more information.
-- **yaml** - folder containing YAML related files
-  1. **yaml_converter.py** - python script able to convert JSON files to YAML
-  2. **data.yaml** - YAML version of data.json, data.yaml is regularly updated, but might not be always up-to-date. If you want to make sure, run the yaml_converter.py or use the JSON version instead.
-- **tests** - Folder for testing files. These files aren't useful or necessary for users, but help the developers find bugs and invalid data.
+- `data.json` - JSON file containing the color psychology data. Visit [Data content](#data-content) for more information.
+- `yaml` - folder containing YAML related files
+  1. `yaml_converter.py` - python script able to convert JSON files to YAML
+  2. `data.yaml` - YAML version of data.json, data.yaml is regularly updated, but might not be always up-to-date. If you want to make sure, run the yaml_converter.py or use the JSON version instead.
+- `tests` - Folder for testing files. These files aren't useful or necessary for users, but help the developers find bugs and invalid data.
+- `.github` - Files related to GitHub, you can ignore these.
+- `CODE_OF_CONDUCT.md` - Code of conduct for our community.
+- `CONTRIBUTING.md` - Information about how to contribute.
 
 ### Data content
 ```json
