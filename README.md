@@ -54,5 +54,8 @@ Every color has a certain emotion and psychological effect attached to it. Peopl
 - Project contributors
 - Other/Unknown websites
 
+## How to contribute
+We are super happy for everyone who wants to participate in this project and improve its quality. If you want to contribute, please check out our `CONTRIBUTING.md` file or click this [link](CONTRIBUTING.md) to learn more.
+
 ## License
 This project is under the MIT License. For more info, read the "LICENSE" file or check out [TLDRLegal](https://tldrlegal.com/license/mit-license) for a quick summary.

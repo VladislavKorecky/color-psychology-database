@@ -9,7 +9,7 @@ This method of contributing to the project is **recommended to developers** and 
 2. Navigate to your new forked repository (if you aren't in it already).
 3. Make your changes (we recommend you create a new branch where all the commits will be located).
 4. Go to the `Pull requests` tab and click on `New pull request`.
-5. Select your branch in the `base` dropdown and our main branch in the `compare` dropdown.
+5. Select your branch in the `compare` dropdown and our main branch in the `base` dropdown.
 6. Finish the pull request and wait for our review.
 
 ## Issues
