@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Violation type**
+**Violation type**\
 What guideline did someone violate?
 
-**People**
+**People**\
 A person or people who have violated the guidelines.
