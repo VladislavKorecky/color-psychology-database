@@ -1,6 +1,7 @@
 abundant:
   colors:
   - gold
+  id: 220
   importance:
   - 0
   positive: true
@@ -8,6 +9,7 @@ abundant:
 academic_and_analytical:
   colors:
   - yellow
+  id: 48
   importance:
   - 0
   positive: true
@@ -15,6 +17,7 @@ academic_and_analytical:
 achievement:
   colors:
   - gold
+  id: 321
   importance:
   - 0
   positive: true
@@ -22,6 +25,7 @@ achievement:
 active:
   colors:
   - red
+  id: 0
   importance:
   - 2
   positive: true
@@ -29,6 +33,7 @@ active:
 adaptable:
   colors:
   - green
+  id: 76
   importance:
   - 0
   positive: true
@@ -36,6 +41,7 @@ adaptable:
 addictive:
   colors:
   - indigo
+  id: 117
   importance:
   - 1
   positive: false
@@ -43,6 +49,7 @@ addictive:
 adventurous:
   colors:
   - orange
+  id: 31
   importance:
   - 2
   positive: true
@@ -50,6 +57,7 @@ adventurous:
 affectionate:
   colors:
   - pink
+  id: 302
   importance:
   - 1
   positive: true
@@ -57,6 +65,7 @@ affectionate:
 aggressive:
   colors:
   - red
+  id: 11
   importance:
   - 1
   positive: false
@@ -65,6 +74,7 @@ agreeable:
   colors:
   - orange
   - green
+  id: 35
   importance:
   - 0
   - 1
@@ -73,6 +83,7 @@ agreeable:
 agriculture_and_farming:
   colors:
   - brown
+  id: 311
   importance:
   - 0
   positive: true
@@ -83,6 +94,7 @@ aloof_and_frigid:
   - purple
   - turquoise
   - black
+  id: 103
   importance:
   - 0
   - 0
@@ -93,6 +105,7 @@ aloof_and_frigid:
 ambitious:
   colors:
   - purple
+  id: 291
   importance:
   - 0
   positive: true
@@ -100,6 +113,7 @@ ambitious:
 angry_and_quick-tempered:
   colors:
   - red
+  id: 15
   importance:
   - 0
   positive: false
@@ -108,6 +122,7 @@ anxious:
   colors:
   - yellow
   - magenta
+  id: 263
   importance:
   - 1
   - 0
@@ -117,6 +132,7 @@ appetite:
   colors:
   - red
   - orange
+  id: 257
   importance:
   - 0
   - 0
@@ -125,6 +141,7 @@ appetite:
 approachable:
   colors:
   - brown
+  id: 172
   importance:
   - 0
   positive: true
@@ -132,6 +149,7 @@ approachable:
 artistic:
   colors:
   - magenta
+  id: 164
   importance:
   - 0
   positive: true
@@ -139,6 +157,7 @@ artistic:
 assertive:
   colors:
   - red
+  id: 2
   importance:
   - 1
   positive: true
@@ -146,6 +165,7 @@ assertive:
 attention-getting:
   colors:
   - red
+  id: 1
   importance:
   - 1
   positive: true
@@ -154,6 +174,7 @@ authority:
   colors:
   - blue
   - black
+  id: 91
   importance:
   - 1
   - 0
@@ -162,6 +183,7 @@ authority:
 avoiding_conflict:
   colors:
   - indigo
+  id: 119
   importance:
   - 0
   positive: false
@@ -169,6 +191,7 @@ avoiding_conflict:
 avoids_challenges:
   colors:
   - magenta
+  id: 167
   importance:
   - 0
   positive: false
@@ -176,6 +199,7 @@ avoids_challenges:
 bigoted:
   colors:
   - indigo
+  id: 118
   importance:
   - 0
   positive: false
@@ -183,6 +207,7 @@ bigoted:
 boastful:
   colors:
   - turquoise
+  id: 138
   importance:
   - 0
   positive: false
@@ -192,6 +217,7 @@ boring:
   - brown
   - grey
   - white
+  id: 183
   importance:
   - 0
   - 0
@@ -201,6 +227,7 @@ boring:
 bossy:
   colors:
   - magenta
+  id: 169
   importance:
   - 0
   positive: false
@@ -216,6 +243,7 @@ calm:
   - magenta
   - brown
   - white
+  id: 67
   importance:
   - 0
   - 1
@@ -235,6 +263,7 @@ caring_and_nurturing:
   - pink
   - turquoise
   - magenta
+  id: 72
   importance:
   - 1
   - 0
@@ -246,6 +275,7 @@ caring_and_nurturing:
 challenging:
   colors:
   - yellow
+  id: 47
   importance:
   - 0
   positive: true
@@ -253,6 +283,7 @@ challenging:
 change_and_transformation:
   colors:
   - magenta
+  id: 307
   importance:
   - 1
   positive: true
@@ -260,6 +291,7 @@ change_and_transformation:
 charismatic:
   colors:
   - gold
+  id: 223
   importance:
   - 0
   positive: true
@@ -267,6 +299,7 @@ charismatic:
 cheap_and_stingy:
   colors:
   - brown
+  id: 187
   importance:
   - 0
   positive: false
@@ -276,6 +309,7 @@ cheerful:
   - orange
   - yellow
   - magenta
+  id: 26
   importance:
   - 0
   - 0
@@ -287,6 +321,7 @@ clarity_of_thought:
   - turquoise
   - yellow
   - green
+  id: 133
   importance:
   - 2
   - 0
@@ -296,6 +331,7 @@ clarity_of_thought:
 classic:
   colors:
   - grey
+  id: 194
   importance:
   - 0
   positive: true
@@ -303,6 +339,7 @@ classic:
 cleanliness:
   colors:
   - white
+  id: 235
   importance:
   - 0
   positive: true
@@ -311,6 +348,7 @@ clear_thinking:
   colors:
   - turquoise
   - yellow
+  id: 295
   importance:
   - 0
   - 0
@@ -319,6 +357,7 @@ clear_thinking:
 colorless:
   colors:
   - silver
+  id: 217
   importance:
   - 0
   positive: false
@@ -329,6 +368,7 @@ comforting:
   - black
   - pink
   - white
+  id: 175
   importance:
   - 1
   - 0
@@ -339,6 +379,7 @@ comforting:
 common_sense:
   colors:
   - magenta
+  id: 160
   importance:
   - 0
   positive: true
@@ -349,6 +390,7 @@ communicative:
   - orange
   - yellow
   - blue
+  id: 132
   importance:
   - 2
   - 2
@@ -363,6 +405,7 @@ compassion_and_understanding:
   - magenta
   - gold
   - silver
+  id: 135
   importance:
   - 0
   - 1
@@ -375,6 +418,7 @@ complete_and_whole:
   colors:
   - white
   - pink
+  id: 237
   importance:
   - 2
   - 0
@@ -383,6 +427,7 @@ complete_and_whole:
 compromise:
   colors:
   - grey
+  id: 316
   importance:
   - 2
   positive: true
@@ -390,6 +435,7 @@ compromise:
 concentration:
   colors:
   - indigo
+  id: 277
   importance:
   - 0
   positive: true
@@ -405,6 +451,7 @@ confident:
   - brown
   - gold
   - black
+  id: 27
   importance:
   - 0
   - 0
@@ -420,6 +467,7 @@ confident:
 conformity:
   colors:
   - indigo
+  id: 116
   importance:
   - 1
   positive: false
@@ -428,6 +476,7 @@ conservative:
   colors:
   - blue
   - grey
+  id: 88
   importance:
   - 1
   - 0
@@ -436,6 +485,7 @@ conservative:
 contained:
   colors:
   - black
+  id: 250
   importance:
   - 0
   positive: true
@@ -444,6 +494,7 @@ control:
   colors:
   - black
   - grey
+  id: 255
   importance:
   - 1
   - 1
@@ -453,6 +504,7 @@ conventional:
   colors:
   - black
   - grey
+  id: 315
   importance:
   - 0
   - 0
@@ -461,6 +513,7 @@ conventional:
 cooperative:
   colors:
   - magenta
+  id: 303
   importance:
   - 0
   positive: true
@@ -469,6 +522,7 @@ courageous:
   colors:
   - red
   - orange
+  id: 7
   importance:
   - 0
   - 1
@@ -477,6 +531,7 @@ courageous:
 cowardly:
   colors:
   - yellow
+  id: 59
   importance:
   - 0
   positive: false
@@ -490,6 +545,7 @@ creative:
   - magenta
   - indigo
   - white
+  id: 33
   importance:
   - 0
   - 1
@@ -504,6 +560,7 @@ critical:
   colors:
   - yellow
   - white
+  id: 51
   importance:
   - 1
   - 0
@@ -512,6 +569,7 @@ critical:
 cynical:
   colors:
   - purple
+  id: 128
   importance:
   - 1
   positive: false
@@ -519,6 +577,7 @@ cynical:
 deceitful:
   colors:
   - yellow
+  id: 60
   importance:
   - 0
   positive: false
@@ -526,6 +585,7 @@ deceitful:
 deceitful_and_spiteful:
   colors:
   - blue
+  id: 93
   importance:
   - 0
   positive: false
@@ -534,6 +594,7 @@ deceptive:
   colors:
   - turquoise
   - silver
+  id: 143
   importance:
   - 0
   - 0
@@ -542,6 +603,7 @@ deceptive:
 delusions_of_grandeur:
   colors:
   - purple
+  id: 131
   importance:
   - 0
   positive: false
@@ -550,6 +612,7 @@ demanding:
   colors:
   - magenta
   - gold
+  id: 170
   importance:
   - 0
   - 0
@@ -559,6 +622,7 @@ demands_respect:
   colors:
   - purple
   - pink
+  id: 290
   importance:
   - 1
   - 0
@@ -569,6 +633,7 @@ dependable:
   - grey
   - green
   - brown
+  id: 200
   importance:
   - 0
   - 1
@@ -578,6 +643,7 @@ dependable:
 dependent:
   colors:
   - orange
+  id: 38
   importance:
   - 0
   positive: false
@@ -590,6 +656,7 @@ depressed_and_sad:
   - black
   - purple
   - magenta
+  id: 94
   importance:
   - 0
   - 0
@@ -603,6 +670,7 @@ detached:
   colors:
   - white
   - grey
+  id: 317
   importance:
   - 0
   - 2
@@ -613,6 +681,7 @@ determined:
   - red
   - blue
   - silver
+  id: 10
   importance:
   - 0
   - 0
@@ -622,6 +691,7 @@ determined:
 devious_with_money:
   colors:
   - green
+  id: 84
   importance:
   - 0
   positive: false
@@ -630,6 +700,7 @@ devotion:
   colors:
   - blue
   - indigo
+  id: 271
   importance:
   - 0
   - 0
@@ -642,6 +713,7 @@ dignified:
   - indigo
   - purple
   - black
+  id: 188
   importance:
   - 0
   - 1
@@ -653,6 +725,7 @@ dignified:
 diplomatic:
   colors:
   - green
+  id: 340
   importance:
   - 1
   positive: true
@@ -660,6 +733,7 @@ diplomatic:
 disciplined:
   colors:
   - black
+  id: 337
   importance:
   - 0
   positive: true
@@ -667,6 +741,7 @@ disciplined:
 disconnected_to_others:
   colors:
   - magenta
+  id: 168
   importance:
   - 0
   positive: false
@@ -674,6 +749,7 @@ disconnected_to_others:
 discriminatory:
   colors:
   - turquoise
+  id: 298
   importance:
   - 0
   positive: false
@@ -681,6 +757,7 @@ discriminatory:
 disinterested:
   colors:
   - white
+  id: 332
   importance:
   - 0
   positive: false
@@ -688,6 +765,7 @@ disinterested:
 distant:
   colors:
   - white
+  id: 248
   importance:
   - 0
   positive: false
@@ -696,6 +774,7 @@ domineering:
   colors:
   - red
   - magenta
+  id: 12
   importance:
   - 0
   - 0
@@ -705,6 +784,7 @@ down_to_earth:
   colors:
   - green
   - brown
+  id: 70
   importance:
   - 0
   - 0
@@ -713,6 +793,7 @@ down_to_earth:
 dramatic:
   colors:
   - indigo
+  id: 282
   importance:
   - 1
   positive: true
@@ -722,6 +803,7 @@ dull:
   - brown
   - silver
   - gold
+  id: 182
   importance:
   - 0
   - 0
@@ -731,6 +813,7 @@ dull:
 efficient:
   colors:
   - white
+  id: 333
   importance:
   - 1
   positive: true
@@ -739,6 +822,7 @@ egotistical:
   colors:
   - yellow
   - gold
+  id: 56
   importance:
   - 0
   - 0
@@ -749,6 +833,7 @@ elegant:
   - grey
   - gold
   - black
+  id: 198
   importance:
   - 0
   - 0
@@ -758,6 +843,7 @@ elegant:
 emotional:
   colors:
   - silver
+  id: 313
   importance:
   - 0
   positive: true
@@ -768,6 +854,7 @@ emotional_balance_and_harmony:
   - magenta
   - green
   - purple
+  id: 134
   importance:
   - 0
   - 2
@@ -779,6 +866,7 @@ emotional_control:
   colors:
   - purple
   - turquoise
+  id: 314
   importance:
   - 1
   - 1
@@ -787,6 +875,7 @@ emotional_control:
 emotional_neediness:
   colors:
   - pink
+  id: 152
   importance:
   - 0
   positive: false
@@ -794,6 +883,7 @@ emotional_neediness:
 emotionally_strong:
   colors:
   - orange
+  id: 261
   importance:
   - 0
   positive: true
@@ -801,6 +891,7 @@ emotionally_strong:
 emotionally_unstable:
   colors:
   - blue
+  id: 98
   importance:
   - 0
   positive: false
@@ -810,6 +901,7 @@ empathic:
   - purple
   - turquoise
   - pink
+  id: 294
   importance:
   - 1
   - 0
@@ -819,6 +911,7 @@ empathic:
 empty:
   colors:
   - white
+  id: 246
   importance:
   - 0
   positive: false
@@ -828,6 +921,7 @@ energising_and_stimulating:
   - red
   - orange
   - magenta
+  id: 3
   importance:
   - 2
   - 1
@@ -837,6 +931,7 @@ energising_and_stimulating:
 enlightenment:
   colors:
   - gold
+  id: 331
   importance:
   - 1
   positive: true
@@ -845,6 +940,7 @@ enthusiastic:
   colors:
   - orange
   - yellow
+  id: 25
   importance:
   - 1
   - 0
@@ -853,6 +949,7 @@ enthusiastic:
 envious:
   colors:
   - green
+  id: 81
   importance:
   - 1
   positive: false
@@ -860,6 +957,7 @@ envious:
 equality:
   colors:
   - white
+  id: 236
   importance:
   - 1
   positive: true
@@ -867,6 +965,7 @@ equality:
 exciting:
   colors:
   - red
+  id: 4
   importance:
   - 1
   positive: true
@@ -874,6 +973,7 @@ exciting:
 exhibitionist:
   colors:
   - orange
+  id: 40
   importance:
   - 0
   positive: false
@@ -881,6 +981,7 @@ exhibitionist:
 extroverted_and_uninhibited:
   colors:
   - orange
+  id: 30
   importance:
   - 0
   positive: true
@@ -889,6 +990,7 @@ fair:
   colors:
   - indigo
   - white
+  id: 279
   importance:
   - 0
   - 0
@@ -897,6 +999,7 @@ fair:
 faithful:
   colors:
   - indigo
+  id: 112
   importance:
   - 0
   positive: true
@@ -904,6 +1007,7 @@ faithful:
 'false':
   colors:
   - gold
+  id: 232
   importance:
   - 0
   positive: false
@@ -913,6 +1017,7 @@ family_and_friends:
   - green
   - pink
   - brown
+  id: 308
   importance:
   - 0
   - 0
@@ -922,6 +1027,7 @@ family_and_friends:
 fanatical:
   colors:
   - indigo
+  id: 114
   importance:
   - 0
   positive: false
@@ -929,6 +1035,7 @@ fanatical:
 fantasy:
   colors:
   - purple
+  id: 124
   importance:
   - 0
   positive: true
@@ -936,6 +1043,7 @@ fantasy:
 fastidious:
   colors:
   - white
+  id: 245
   importance:
   - 0
   positive: false
@@ -943,6 +1051,7 @@ fastidious:
 fear_of_failure:
   colors:
   - gold
+  id: 227
   importance:
   - 0
   positive: false
@@ -950,6 +1059,7 @@ fear_of_failure:
 fear_of_losing_wealth:
   colors:
   - gold
+  id: 228
   importance:
   - 0
   positive: false
@@ -959,6 +1069,7 @@ fearful:
   - red
   - indigo
   - black
+  id: 17
   importance:
   - 0
   - 0
@@ -969,6 +1080,7 @@ feminine:
   colors:
   - pink
   - silver
+  id: 149
   importance:
   - 0
   - 1
@@ -978,6 +1090,7 @@ fence-sitter:
   colors:
   - turquoise
   - grey
+  id: 142
   importance:
   - 0
   - 0
@@ -986,6 +1099,7 @@ fence-sitter:
 finance:
   colors:
   - green
+  id: 268
   importance:
   - 0
   positive: true
@@ -993,6 +1107,7 @@ finance:
 flamboyant:
   colors:
   - orange
+  id: 29
   importance:
   - 0
   positive: true
@@ -1001,6 +1116,7 @@ formal:
   colors:
   - grey
   - black
+  id: 199
   importance:
   - 0
   - 1
@@ -1009,6 +1125,7 @@ formal:
 fraudulent_and_corrupt:
   colors:
   - purple
+  id: 130
   importance:
   - 0
   positive: false
@@ -1019,6 +1136,7 @@ friendly:
   - green
   - turquoise
   - orange
+  id: 173
   importance:
   - 0
   - 0
@@ -1029,6 +1147,7 @@ friendly:
 frugal:
   colors:
   - brown
+  id: 184
   importance:
   - 0
   positive: false
@@ -1036,6 +1155,7 @@ frugal:
 fun:
   colors:
   - yellow
+  id: 44
   importance:
   - 1
   positive: true
@@ -1043,6 +1163,7 @@ fun:
 future_state_of_mind:
   colors:
   - purple
+  id: 125
   importance:
   - 0
   positive: true
@@ -1050,6 +1171,7 @@ future_state_of_mind:
 futuristic:
   colors:
   - white
+  id: 126
   importance:
   - 1
   positive: true
@@ -1058,6 +1180,7 @@ generous:
   colors:
   - green
   - gold
+  id: 73
   importance:
   - 0
   - 1
@@ -1066,6 +1189,7 @@ generous:
 genuine:
   colors:
   - brown
+  id: 309
   importance:
   - 0
   positive: true
@@ -1073,6 +1197,7 @@ genuine:
 girlish:
   colors:
   - pink
+  id: 155
   importance:
   - 0
   positive: false
@@ -1080,6 +1205,7 @@ girlish:
 glamorous:
   colors:
   - silver
+  id: 208
   importance:
   - 0
   positive: true
@@ -1087,6 +1213,7 @@ glamorous:
 good-humored:
   colors:
   - yellow
+  id: 45
   importance:
   - 0
   positive: true
@@ -1094,6 +1221,7 @@ good-humored:
 greedy:
   colors:
   - green
+  id: 83
   importance:
   - 0
   positive: false
@@ -1103,6 +1231,7 @@ growth:
   - green
   - turquoise
   - white
+  id: 63
   importance:
   - 2
   - 0
@@ -1115,6 +1244,7 @@ happy:
   - yellow
   - turquoise
   - magenta
+  id: 260
   importance:
   - 0
   - 1
@@ -1125,6 +1255,7 @@ happy:
 healing:
   colors:
   - turquoise
+  id: 136
   importance:
   - 0
   positive: true
@@ -1132,6 +1263,7 @@ healing:
 helps_the_spirit_soar:
   colors:
   - magenta
+  id: 158
   importance:
   - 0
   positive: true
@@ -1140,6 +1272,7 @@ hi-tech:
   colors:
   - silver
   - blue
+  id: 214
   importance:
   - 0
   - 0
@@ -1150,6 +1283,7 @@ higher_mind:
   - indigo
   - purple
   - blue
+  id: 341
   importance:
   - 2
   - 0
@@ -1159,6 +1293,7 @@ higher_mind:
 highly_visible:
   colors:
   - yellow
+  id: 264
   importance:
   - 0
   positive: true
@@ -1167,6 +1302,7 @@ honest:
   colors:
   - brown
   - blue
+  id: 180
   importance:
   - 0
   - 1
@@ -1178,6 +1314,7 @@ hopeful:
   - yellow
   - green
   - white
+  id: 147
   importance:
   - 1
   - 0
@@ -1188,6 +1325,7 @@ hopeful:
 humanitarian:
   colors:
   - purple
+  id: 121
   importance:
   - 0
   positive: true
@@ -1197,6 +1335,7 @@ idealistic:
   - blue
   - indigo
   - turquoise
+  id: 89
   importance:
   - 0
   - 1
@@ -1207,6 +1346,7 @@ illuminative:
   colors:
   - silver
   - yellow
+  id: 205
   importance:
   - 1
   - 0
@@ -1215,6 +1355,7 @@ illuminative:
 imagination:
   colors:
   - purple
+  id: 285
   importance:
   - 2
   positive: true
@@ -1222,6 +1363,7 @@ imagination:
 imaginative:
   colors:
   - magenta
+  id: 162
   importance:
   - 0
   positive: true
@@ -1229,6 +1371,7 @@ imaginative:
 immaculate_and_neat:
   colors:
   - white
+  id: 239
   importance:
   - 0
   positive: true
@@ -1237,6 +1380,7 @@ immature:
   colors:
   - purple
   - pink
+  id: 127
   importance:
   - 1
   - 1
@@ -1246,6 +1390,7 @@ impartial:
   colors:
   - grey
   - white
+  id: 190
   importance:
   - 0
   - 1
@@ -1255,6 +1400,7 @@ impatient:
   colors:
   - yellow
   - magenta
+  id: 54
   importance:
   - 0
   - 0
@@ -1264,6 +1410,7 @@ impractical:
   colors:
   - indigo
   - purple
+  id: 115
   importance:
   - 0
   - 1
@@ -1273,6 +1420,7 @@ impulsive:
   colors:
   - yellow
   - magenta
+  id: 55
   importance:
   - 0
   - 0
@@ -1281,6 +1429,7 @@ impulsive:
 inconsiderate:
   colors:
   - green
+  id: 85
   importance:
   - 0
   positive: false
@@ -1289,6 +1438,7 @@ indecisive:
   colors:
   - grey
   - silver
+  id: 201
   importance:
   - 2
   - 0
@@ -1300,6 +1450,7 @@ independent:
   - purple
   - white
   - black
+  id: 28
   importance:
   - 0
   - 0
@@ -1311,6 +1462,7 @@ indifferent:
   colors:
   - green
   - grey
+  id: 79
   importance:
   - 0
   - 0
@@ -1319,6 +1471,7 @@ indifferent:
 inexpensive:
   colors:
   - orange
+  id: 42
   importance:
   - 0
   positive: false
@@ -1327,6 +1480,7 @@ inexperienced:
   colors:
   - green
   - pink
+  id: 86
   importance:
   - 0
   - 0
@@ -1335,6 +1489,7 @@ inexperienced:
 inferiority_complex:
   colors:
   - yellow
+  id: 57
   importance:
   - 0
   positive: false
@@ -1343,6 +1498,7 @@ inflexible:
   colors:
   - blue
   - indigo
+  id: 273
   importance:
   - 0
   - 0
@@ -1351,6 +1507,7 @@ inflexible:
 informal:
   colors:
   - orange
+  id: 36
   importance:
   - 0
   positive: true
@@ -1359,6 +1516,7 @@ innocent:
   colors:
   - white
   - pink
+  id: 233
   importance:
   - 2
   - 0
@@ -1367,6 +1525,7 @@ innocent:
 innovative:
   colors:
   - magenta
+  id: 163
   importance:
   - 0
   positive: true
@@ -1377,6 +1536,7 @@ insightful:
   - green
   - blue
   - pink
+  id: 211
   importance:
   - 0
   - 0
@@ -1388,6 +1548,7 @@ inspiring:
   colors:
   - purple
   - magenta
+  id: 293
   importance:
   - 1
   - 1
@@ -1398,6 +1559,7 @@ integrity:
   - indigo
   - blue
   - purple
+  id: 106
   importance:
   - 1
   - 0
@@ -1409,6 +1571,7 @@ intelligent:
   - grey
   - yellow
   - blue
+  id: 193
   importance:
   - 0
   - 2
@@ -1418,6 +1581,7 @@ intelligent:
 intimate:
   colors:
   - pink
+  id: 299
   importance:
   - 0
   positive: true
@@ -1425,6 +1589,7 @@ intimate:
 intimidating:
   colors:
   - black
+  id: 334
   importance:
   - 0
   positive: false
@@ -1434,6 +1599,7 @@ intolerant:
   - red
   - indigo
   - magenta
+  id: 18
   importance:
   - 0
   - 0
@@ -1444,6 +1610,7 @@ introspective:
   colors:
   - indigo
   - purple
+  id: 284
   importance:
   - 1
   - 0
@@ -1456,6 +1623,7 @@ intuition:
   - turquoise
   - pink
   - magenta
+  id: 111
   importance:
   - 2
   - 0
@@ -1467,6 +1635,7 @@ intuition:
 irritates:
   colors:
   - magenta
+  id: 306
   importance:
   - 0
   positive: false
@@ -1475,6 +1644,7 @@ isolated:
   colors:
   - grey
   - white
+  id: 204
   importance:
   - 0
   - 0
@@ -1485,6 +1655,7 @@ judgmental:
   - yellow
   - indigo
   - green
+  id: 52
   importance:
   - 0
   - 0
@@ -1495,6 +1666,7 @@ justice:
   colors:
   - indigo
   - silver
+  id: 278
   importance:
   - 0
   - 0
@@ -1505,6 +1677,7 @@ kind:
   - green
   - magenta
   - pink
+  id: 74
   importance:
   - 0
   - 0
@@ -1516,6 +1689,7 @@ knowledge:
   - yellow
   - gold
   - magenta
+  id: 327
   importance:
   - 0
   - 0
@@ -1525,6 +1699,7 @@ knowledge:
 lack_of_humor:
   colors:
   - brown
+  id: 185
   importance:
   - 0
   positive: false
@@ -1532,6 +1707,7 @@ lack_of_humor:
 lack_of_self_worth:
   colors:
   - pink
+  id: 157
   importance:
   - 0
   positive: false
@@ -1539,6 +1715,7 @@ lack_of_self_worth:
 lack_of_will_power:
   colors:
   - pink
+  id: 156
   importance:
   - 0
   positive: false
@@ -1546,6 +1723,7 @@ lack_of_will_power:
 lacking_compassion:
   colors:
   - yellow
+  id: 62
   importance:
   - 0
   positive: false
@@ -1553,6 +1731,7 @@ lacking_compassion:
 lacking_generosity:
   colors:
   - gold
+  id: 330
   importance:
   - 0
   positive: false
@@ -1560,6 +1739,7 @@ lacking_generosity:
 lacking_kindness:
   colors:
   - gold
+  id: 329
   importance:
   - 0
   positive: false
@@ -1567,6 +1747,7 @@ lacking_kindness:
 law:
   colors:
   - indigo
+  id: 280
   importance:
   - 0
   positive: true
@@ -1575,6 +1756,7 @@ lifeless:
   colors:
   - grey
   - silver
+  id: 202
   importance:
   - 0
   - 1
@@ -1583,6 +1765,7 @@ lifeless:
 logical:
   colors:
   - yellow
+  id: 50
   importance:
   - 0
   positive: true
@@ -1591,6 +1774,7 @@ lonely:
   colors:
   - grey
   - silver
+  id: 203
   importance:
   - 0
   - 0
@@ -1603,6 +1787,7 @@ love:
   - magenta
   - gold
   - purple
+  id: 144
   importance:
   - 2
   - 0
@@ -1616,6 +1801,7 @@ loyal:
   - green
   - blue
   - brown
+  id: 75
   importance:
   - 0
   - 0
@@ -1626,6 +1812,7 @@ luxurious:
   colors:
   - gold
   - purple
+  id: 289
   importance:
   - 1
   - 0
@@ -1634,6 +1821,7 @@ luxurious:
 manipulative:
   colors:
   - blue
+  id: 104
   importance:
   - 0
   positive: false
@@ -1642,6 +1830,7 @@ masculine:
   colors:
   - gold
   - red
+  id: 226
   importance:
   - 0
   - 0
@@ -1652,6 +1841,7 @@ mature:
   - grey
   - brown
   - silver
+  id: 192
   importance:
   - 0
   - 0
@@ -1661,6 +1851,7 @@ mature:
 mean_spirited:
   colors:
   - gold
+  id: 230
   importance:
   - 0
   positive: false
@@ -1668,6 +1859,7 @@ mean_spirited:
 melancholy:
   colors:
   - silver
+  id: 216
   importance:
   - 0
   positive: false
@@ -1675,6 +1867,7 @@ melancholy:
 mind:
   colors:
   - yellow
+  id: 338
   importance:
   - 2
   positive: true
@@ -1682,6 +1875,7 @@ mind:
 modern:
   colors:
   - silver
+  id: 212
   importance:
   - 0
   positive: true
@@ -1689,6 +1883,7 @@ modern:
 motivating:
   colors:
   - red
+  id: 259
   importance:
   - 1
   positive: true
@@ -1698,6 +1893,7 @@ mysterious:
   - purple
   - black
   - silver
+  id: 123
   importance:
   - 0
   - 2
@@ -1707,6 +1903,7 @@ mysterious:
 naive:
   colors:
   - pink
+  id: 154
   importance:
   - 0
   positive: false
@@ -1714,6 +1911,7 @@ naive:
 narrow-minded:
   colors:
   - indigo
+  id: 283
   importance:
   - 0
   positive: false
@@ -1721,6 +1919,7 @@ narrow-minded:
 natural_and_organic:
   colors:
   - brown
+  id: 310
   importance:
   - 1
   positive: true
@@ -1728,6 +1927,7 @@ natural_and_organic:
 nature_lover:
   colors:
   - green
+  id: 68
   importance:
   - 0
   positive: true
@@ -1735,6 +1935,7 @@ nature_lover:
 need_to_belong:
   colors:
   - green
+  id: 77
   importance:
   - 0
   positive: true
@@ -1743,6 +1944,7 @@ negative:
   colors:
   - silver
   - black
+  id: 218
   importance:
   - 0
   - 0
@@ -1751,6 +1953,7 @@ negative:
 negotiator:
   colors:
   - magenta
+  id: 166
   importance:
   - 0
   positive: true
@@ -1760,6 +1963,7 @@ neutral:
   - grey
   - silver
   - white
+  id: 189
   importance:
   - 1
   - 0
@@ -1769,6 +1973,7 @@ neutral:
 new_beginnings:
   colors:
   - white
+  id: 242
   importance:
   - 1
   positive: true
@@ -1777,6 +1982,7 @@ noble:
   colors:
   - purple
   - gold
+  id: 288
   importance:
   - 0
   - 0
@@ -1785,6 +1991,7 @@ noble:
 non-committal:
   colors:
   - silver
+  id: 320
   importance:
   - 0
   positive: false
@@ -1792,6 +1999,7 @@ non-committal:
 non-conformist:
   colors:
   - magenta
+  id: 165
   importance:
   - 1
   positive: true
@@ -1801,6 +2009,7 @@ non-emotional:
   - yellow
   - grey
   - turquoise
+  id: 61
   importance:
   - 1
   - 1
@@ -1810,6 +2019,7 @@ non-emotional:
 nostalgic:
   colors:
   - blue
+  id: 274
   importance:
   - 0
   positive: true
@@ -1817,6 +2027,7 @@ nostalgic:
 obedient:
   colors:
   - indigo
+  id: 110
   importance:
   - 0
   positive: true
@@ -1824,6 +2035,7 @@ obedient:
 observation:
   colors:
   - turquoise
+  id: 297
   importance:
   - 0
   positive: true
@@ -1832,6 +2044,7 @@ open:
   colors:
   - white
   - pink
+  id: 241
   importance:
   - 0
   - 0
@@ -1845,6 +2058,7 @@ optimistic:
   - green
   - magenta
   - silver
+  id: 24
   importance:
   - 0
   - 0
@@ -1858,6 +2072,7 @@ orderly:
   colors:
   - blue
   - indigo
+  id: 90
   importance:
   - 1
   - 1
@@ -1866,6 +2081,7 @@ orderly:
 organised:
   colors:
   - silver
+  id: 210
   importance:
   - 0
   positive: true
@@ -1874,6 +2090,7 @@ original:
   colors:
   - yellow
   - purple
+  id: 46
   importance:
   - 0
   - 0
@@ -1883,6 +2100,7 @@ over-bearing:
   colors:
   - red
   - orange
+  id: 13
   importance:
   - 0
   - 0
@@ -1893,6 +2111,7 @@ over-cautious:
   - green
   - pink
   - white
+  id: 80
   importance:
   - 0
   - 0
@@ -1903,6 +2122,7 @@ over-emotional:
   colors:
   - pink
   - turquoise
+  id: 151
   importance:
   - 0
   - 0
@@ -1911,6 +2131,7 @@ over-emotional:
 overly_analytical:
   colors:
   - yellow
+  id: 53
   importance:
   - 0
   positive: false
@@ -1918,6 +2139,7 @@ overly_analytical:
 overly_proud:
   colors:
   - orange
+  id: 43
   importance:
   - 0
   positive: false
@@ -1925,6 +2147,7 @@ overly_proud:
 overwhelming:
   colors:
   - magenta
+  id: 305
   importance:
   - 0
   positive: false
@@ -1935,6 +2158,7 @@ passionate:
   - gold
   - pink
   - magenta
+  id: 6
   importance:
   - 2
   - 0
@@ -1945,6 +2169,7 @@ passionate:
 patient:
   colors:
   - silver
+  id: 319
   importance:
   - 0
   positive: true
@@ -1956,6 +2181,7 @@ peace:
   - turquoise
   - magenta
   - white
+  id: 267
   importance:
   - 0
   - 1
@@ -1967,6 +2193,7 @@ peace:
 peace_of_mind:
   colors:
   - purple
+  id: 286
   importance:
   - 0
   positive: true
@@ -1975,6 +2202,7 @@ perceptive:
   colors:
   - indigo
   - turquoise
+  id: 276
   importance:
   - 2
   - 0
@@ -1985,6 +2213,7 @@ pessimistic:
   - orange
   - yellow
   - black
+  id: 41
   importance:
   - 0
   - 0
@@ -1994,6 +2223,7 @@ pessimistic:
 physical_desires:
   colors:
   - red
+  id: 258
   importance:
   - 1
   positive: true
@@ -2001,6 +2231,7 @@ physical_desires:
 physically_weak:
   colors:
   - pink
+  id: 150
   importance:
   - 0
   positive: false
@@ -2008,6 +2239,7 @@ physically_weak:
 plain:
   colors:
   - white
+  id: 247
   importance:
   - 0
   positive: false
@@ -2016,6 +2248,7 @@ pompous_and_arrogant:
   colors:
   - purple
   - magenta
+  id: 129
   importance:
   - 0
   - 0
@@ -2027,6 +2260,7 @@ positive:
   - red
   - green
   - pink
+  id: 225
   importance:
   - 0
   - 0
@@ -2038,6 +2272,7 @@ possessive_and_materialistic:
   colors:
   - green
   - brown
+  id: 78
   importance:
   - 1
   - 2
@@ -2050,6 +2285,7 @@ powerful:
   - indigo
   - purple
   - magenta
+  id: 5
   importance:
   - 0
   - 1
@@ -2064,6 +2300,7 @@ practical:
   - magenta
   - brown
   - grey
+  id: 69
   importance:
   - 0
   - 0
@@ -2075,6 +2312,7 @@ predictable:
   colors:
   - blue
   - brown
+  id: 100
   importance:
   - 1
   - 0
@@ -2084,6 +2322,7 @@ prestige:
   colors:
   - gold
   - silver
+  id: 325
   importance:
   - 1
   - 1
@@ -2092,6 +2331,7 @@ prestige:
 pristine:
   colors:
   - white
+  id: 240
   importance:
   - 0
   positive: true
@@ -2102,6 +2342,7 @@ professional:
   - blue
   - black
   - brown
+  id: 191
   importance:
   - 1
   - 2
@@ -2112,6 +2353,7 @@ professional:
 prosperity:
   colors:
   - gold
+  id: 324
   importance:
   - 0
   positive: true
@@ -2121,6 +2363,7 @@ protective:
   - brown
   - black
   - white
+  id: 176
   importance:
   - 2
   - 2
@@ -2130,6 +2373,7 @@ protective:
 psychic:
   colors:
   - purple
+  id: 120
   importance:
   - 0
   positive: true
@@ -2139,6 +2383,7 @@ pure:
   - white
   - pink
   - silver
+  id: 234
   importance:
   - 2
   - 0
@@ -2149,6 +2394,7 @@ quality:
   colors:
   - brown
   - gold
+  id: 181
   importance:
   - 0
   - 0
@@ -2158,6 +2404,7 @@ quick_decisions:
   colors:
   - yellow
   - turquoise
+  id: 265
   importance:
   - 1
   - 0
@@ -2166,6 +2413,7 @@ quick_decisions:
 quiet:
   colors:
   - grey
+  id: 312
   importance:
   - 0
   positive: true
@@ -2173,6 +2421,7 @@ quiet:
 reassured:
   colors:
   - brown
+  id: 179
   importance:
   - 0
   positive: true
@@ -2180,6 +2429,7 @@ reassured:
 rebellious_and_obstinate:
   colors:
   - red
+  id: 19
   importance:
   - 0
   positive: false
@@ -2188,6 +2438,7 @@ reflective:
   colors:
   - silver
   - white
+  id: 206
   importance:
   - 1
   - 0
@@ -2196,6 +2447,7 @@ reflective:
 regulations:
   colors:
   - indigo
+  id: 109
   importance:
   - 0
   positive: true
@@ -2204,6 +2456,7 @@ rejuvenating:
   colors:
   - yellow
   - green
+  id: 339
   importance:
   - 1
   - 1
@@ -2213,6 +2466,7 @@ relaxing:
   colors:
   - green
   - blue
+  id: 266
   importance:
   - 0
   - 0
@@ -2226,6 +2480,7 @@ reliable_and_responsible:
   - brown
   - silver
   - grey
+  id: 65
   importance:
   - 0
   - 2
@@ -2239,6 +2494,7 @@ religious:
   colors:
   - blue
   - indigo
+  id: 275
   importance:
   - 1
   - 0
@@ -2247,6 +2503,7 @@ religious:
 removes_angriness_and_aggression:
   colors:
   - pink
+  id: 300
   importance:
   - 0
   positive: true
@@ -2254,6 +2511,7 @@ removes_angriness_and_aggression:
 renewal_and_restoration:
   colors:
   - green
+  id: 64
   importance:
   - 0
   positive: true
@@ -2261,6 +2519,7 @@ renewal_and_restoration:
 rescuer:
   colors:
   - white
+  id: 342
   importance:
   - 1
   positive: true
@@ -2268,6 +2527,7 @@ rescuer:
 resentful:
   colors:
   - red
+  id: 20
   importance:
   - 0
   positive: false
@@ -2276,6 +2536,7 @@ reserved:
   colors:
   - grey
   - blue
+  id: 197
   importance:
   - 0
   - 0
@@ -2285,6 +2546,7 @@ respectable:
   colors:
   - silver
   - purple
+  id: 318
   importance:
   - 0
   - 1
@@ -2293,6 +2555,7 @@ respectable:
 reticent:
   colors:
   - turquoise
+  id: 141
   importance:
   - 0
   positive: false
@@ -2301,6 +2564,7 @@ rigid:
   colors:
   - blue
   - silver
+  id: 92
   importance:
   - 1
   - 0
@@ -2309,6 +2573,7 @@ rigid:
 risk-taking:
   colors:
   - orange
+  id: 32
   importance:
   - 1
   positive: true
@@ -2317,6 +2582,7 @@ romantic:
   colors:
   - pink
   - red
+  id: 145
   importance:
   - 0
   - 0
@@ -2325,6 +2591,7 @@ romantic:
 ruthless:
   colors:
   - red
+  id: 16
   importance:
   - 0
   positive: false
@@ -2334,6 +2601,7 @@ safe_and_non-threatening:
   - blue
   - pink
   - grey
+  id: 272
   importance:
   - 0
   - 1
@@ -2343,6 +2611,7 @@ safe_and_non-threatening:
 scientific:
   colors:
   - silver
+  id: 215
   importance:
   - 0
   positive: true
@@ -2351,6 +2620,7 @@ secretive:
   colors:
   - turquoise
   - black
+  id: 139
   importance:
   - 0
   - 0
@@ -2360,6 +2630,7 @@ secure:
   colors:
   - blue
   - brown
+  id: 269
   importance:
   - 0
   - 2
@@ -2368,6 +2639,7 @@ secure:
 self-assured:
   colors:
   - purple
+  id: 292
   importance:
   - 0
   positive: true
@@ -2376,6 +2648,7 @@ self-centred:
   colors:
   - gold
   - turquoise
+  id: 229
   importance:
   - 0
   - 0
@@ -2384,6 +2657,7 @@ self-centred:
 self-indulgent:
   colors:
   - orange
+  id: 39
   importance:
   - 0
   positive: false
@@ -2392,6 +2666,7 @@ self-respect:
   colors:
   - magenta
   - orange
+  id: 304
   importance:
   - 0
   - 0
@@ -2402,6 +2677,7 @@ self-righteous:
   - blue
   - indigo
   - gold
+  id: 96
   importance:
   - 0
   - 0
@@ -2412,6 +2688,7 @@ self-sufficient:
   colors:
   - turquoise
   - white
+  id: 137
   importance:
   - 1
   - 0
@@ -2420,6 +2697,7 @@ self-sufficient:
 self-worth:
   colors:
   - gold
+  id: 222
   importance:
   - 0
   positive: true
@@ -2428,6 +2706,7 @@ self_control:
   colors:
   - silver
   - black
+  id: 209
   importance:
   - 0
   - 0
@@ -2436,6 +2715,7 @@ self_control:
 self_esteem:
   colors:
   - turquoise
+  id: 296
   importance:
   - 0
   positive: true
@@ -2444,6 +2724,7 @@ selfish:
   colors:
   - green
   - gold
+  id: 82
   importance:
   - 0
   - 0
@@ -2453,6 +2734,7 @@ selfless:
   colors:
   - indigo
   - purple
+  id: 113
   importance:
   - 0
   - 0
@@ -2465,6 +2747,7 @@ sensitive:
   - turquoise
   - pink
   - silver
+  id: 178
   importance:
   - 0
   - 0
@@ -2476,6 +2759,7 @@ sensitive:
 sensual:
   colors:
   - brown
+  id: 177
   importance:
   - 0
   positive: true
@@ -2484,6 +2768,7 @@ serious:
   colors:
   - black
   - brown
+  id: 254
   importance:
   - 0
   - 0
@@ -2492,6 +2777,7 @@ serious:
 sexual_and_lust:
   colors:
   - red
+  id: 22
   importance:
   - 0
   positive: true
@@ -2500,6 +2786,7 @@ sexy_and_seductive:
   colors:
   - black
   - red
+  id: 252
   importance:
   - 0
   - 0
@@ -2508,6 +2795,7 @@ sexy_and_seductive:
 silly:
   colors:
   - pink
+  id: 301
   importance:
   - 0
   positive: false
@@ -2516,6 +2804,7 @@ simple:
   colors:
   - white
   - brown
+  id: 238
   importance:
   - 0
   - 0
@@ -2526,6 +2815,7 @@ sincere:
   - indigo
   - brown
   - blue
+  id: 107
   importance:
   - 0
   - 0
@@ -2535,6 +2825,7 @@ sincere:
 sleek:
   colors:
   - silver
+  id: 213
   importance:
   - 0
   positive: true
@@ -2542,6 +2833,7 @@ sleek:
 sociable:
   colors:
   - orange
+  id: 23
   importance:
   - 2
   positive: true
@@ -2550,6 +2842,7 @@ solid:
   colors:
   - grey
   - brown
+  id: 195
   importance:
   - 0
   - 0
@@ -2558,6 +2851,7 @@ solid:
 soothing:
   colors:
   - silver
+  id: 207
   importance:
   - 1
   positive: true
@@ -2567,6 +2861,7 @@ sophisticated:
   - black
   - silver
   - gold
+  id: 251
   importance:
   - 1
   - 0
@@ -2580,6 +2875,7 @@ spiritual:
   - purple
   - turquoise
   - gold
+  id: 159
   importance:
   - 0
   - 0
@@ -2591,6 +2887,7 @@ spiritual:
 spiteful:
   colors:
   - yellow
+  id: 58
   importance:
   - 0
   positive: false
@@ -2599,6 +2896,7 @@ spontaneous:
   colors:
   - red
   - magenta
+  id: 9
   importance:
   - 0
   - 0
@@ -2610,6 +2908,7 @@ stable:
   - grey
   - green
   - purple
+  id: 174
   importance:
   - 1
   - 0
@@ -2620,6 +2919,7 @@ stable:
 stark:
   colors:
   - white
+  id: 244
   importance:
   - 0
   positive: false
@@ -2627,6 +2927,7 @@ stark:
 status:
   colors:
   - gold
+  id: 322
   importance:
   - 2
   positive: true
@@ -2634,6 +2935,7 @@ status:
 sterile:
   colors:
   - white
+  id: 243
   importance:
   - 0
   positive: false
@@ -2644,6 +2946,7 @@ strong:
   - brown
   - black
   - purple
+  id: 8
   importance:
   - 0
   - 0
@@ -2655,6 +2958,7 @@ strong_will:
   colors:
   - red
   - black
+  id: 256
   importance:
   - 0
   - 0
@@ -2664,6 +2968,7 @@ structure:
   colors:
   - indigo
   - brown
+  id: 108
   importance:
   - 1
   - 1
@@ -2672,6 +2977,7 @@ structure:
 subdued:
   colors:
   - grey
+  id: 196
   importance:
   - 0
   positive: false
@@ -2679,6 +2985,7 @@ subdued:
 successful:
   colors:
   - gold
+  id: 219
   importance:
   - 2
   positive: true
@@ -2687,6 +2994,7 @@ superficial_and_insincere:
   colors:
   - orange
   - silver
+  id: 37
   importance:
   - 0
   - 0
@@ -2695,6 +3003,7 @@ superficial_and_insincere:
 superstitious:
   colors:
   - blue
+  id: 97
   importance:
   - 0
   positive: false
@@ -2703,6 +3012,7 @@ supportive:
   colors:
   - magenta
   - brown
+  id: 161
   importance:
   - 0
   - 0
@@ -2711,6 +3021,7 @@ supportive:
 sweet:
   colors:
   - pink
+  id: 148
   importance:
   - 0
   positive: true
@@ -2718,6 +3029,7 @@ sweet:
 sympathetic:
   colors:
   - green
+  id: 71
   importance:
   - 0
   positive: true
@@ -2726,6 +3038,7 @@ tactful:
   colors:
   - green
   - blue
+  id: 66
   importance:
   - 0
   - 0
@@ -2734,6 +3047,7 @@ tactful:
 tiring:
   colors:
   - red
+  id: 14
   importance:
   - 0
   positive: false
@@ -2742,6 +3056,7 @@ too_conservative_and_old-fashioned:
   colors:
   - blue
   - black
+  id: 99
   importance:
   - 0
   - 0
@@ -2750,6 +3065,7 @@ too_conservative_and_old-fashioned:
 too_passive:
   colors:
   - blue
+  id: 95
   importance:
   - 0
   positive: false
@@ -2757,6 +3073,7 @@ too_passive:
 traditions_and_rituals:
   colors:
   - indigo
+  id: 281
   importance:
   - 0
   positive: true
@@ -2764,6 +3081,7 @@ traditions_and_rituals:
 triumph:
   colors:
   - gold
+  id: 323
   importance:
   - 0
   positive: true
@@ -2772,6 +3090,7 @@ trustworthy:
   colors:
   - blue
   - brown
+  id: 87
   importance:
   - 2
   - 0
@@ -2780,6 +3099,7 @@ trustworthy:
 truthful:
   colors:
   - blue
+  id: 270
   importance:
   - 0
   positive: true
@@ -2787,6 +3107,7 @@ truthful:
 unapproachable:
   colors:
   - black
+  id: 336
   importance:
   - 0
   positive: false
@@ -2794,6 +3115,7 @@ unapproachable:
 unfaithfulness:
   colors:
   - blue
+  id: 105
   importance:
   - 0
   positive: false
@@ -2801,6 +3123,7 @@ unfaithfulness:
 unforgiving:
   colors:
   - blue
+  id: 102
   importance:
   - 0
   positive: false
@@ -2808,6 +3131,7 @@ unforgiving:
 unfriendly:
   colors:
   - black
+  id: 335
   importance:
   - 0
   positive: false
@@ -2815,6 +3139,7 @@ unfriendly:
 unimaginative:
   colors:
   - white
+  id: 249
   importance:
   - 0
   positive: false
@@ -2822,6 +3147,7 @@ unimaginative:
 unique_and_individual:
   colors:
   - purple
+  id: 287
   importance:
   - 1
   positive: true
@@ -2829,6 +3155,7 @@ unique_and_individual:
 unity:
   colors:
   - white
+  id: 343
   importance:
   - 1
   positive: true
@@ -2836,6 +3163,7 @@ unity:
 unlimited:
   colors:
   - purple
+  id: 122
   importance:
   - 0
   positive: true
@@ -2843,6 +3171,7 @@ unlimited:
 unrealistic_expectations:
   colors:
   - pink
+  id: 153
   importance:
   - 0
   positive: false
@@ -2850,6 +3179,7 @@ unrealistic_expectations:
 unreliable:
   colors:
   - turquoise
+  id: 140
   importance:
   - 0
   positive: false
@@ -2857,6 +3187,7 @@ unreliable:
 unsophisticated:
   colors:
   - brown
+  id: 186
   importance:
   - 0
   positive: false
@@ -2864,6 +3195,7 @@ unsophisticated:
 untrustful:
   colors:
   - gold
+  id: 231
   importance:
   - 0
   positive: false
@@ -2873,6 +3205,7 @@ uplifting:
   - yellow
   - turquoise
   - magenta
+  id: 262
   importance:
   - 0
   - 0
@@ -2882,6 +3215,7 @@ uplifting:
 value:
   colors:
   - gold
+  id: 326
   importance:
   - 0
   positive: true
@@ -2889,6 +3223,7 @@ value:
 violent_and_brutal:
   colors:
   - red
+  id: 21
   importance:
   - 0
   positive: false
@@ -2900,6 +3235,7 @@ warm:
   - red
   - orange
   - gold
+  id: 146
   importance:
   - 0
   - 0
@@ -2911,6 +3247,7 @@ warm:
 warm-hearted:
   colors:
   - orange
+  id: 34
   importance:
   - 0
   positive: true
@@ -2918,6 +3255,7 @@ warm-hearted:
 weak:
   colors:
   - blue
+  id: 101
   importance:
   - 0
   positive: false
@@ -2929,6 +3267,7 @@ wealthy:
   - purple
   - brown
   - silver
+  id: 221
   importance:
   - 2
   - 0
@@ -2940,6 +3279,7 @@ wealthy:
 wholesome:
   colors:
   - brown
+  id: 171
   importance:
   - 1
   positive: true
@@ -2947,6 +3287,7 @@ wholesome:
 win:
   colors:
   - gold
+  id: 328
   importance:
   - 0
   positive: true
@@ -2954,6 +3295,7 @@ win:
 winning:
   colors:
   - gold
+  id: 224
   importance:
   - 0
   positive: true
@@ -2966,6 +3308,7 @@ wise:
   - blue
   - indigo
   - purple
+  id: 49
   importance:
   - 0
   - 0
@@ -2978,6 +3321,7 @@ wise:
 withholding:
   colors:
   - black
+  id: 253
   importance:
   - 0
   positive: false
