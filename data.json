@@ -7,7 +7,8 @@
         ],
         "importance": [
             2
-        ]
+        ],
+        "id": 0
     },
     "attention-getting": {
         "positive": true,
@@ -17,7 +18,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 1
     },
     "assertive": {
         "positive": true,
@@ -27,7 +29,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 2
     },
     "energising_and_stimulating": {
         "positive": true,
@@ -41,7 +44,8 @@
             2,
             1,
             0
-        ]
+        ],
+        "id": 3
     },
     "exciting": {
         "positive": true,
@@ -51,7 +55,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 4
     },
     "powerful": {
         "positive": true,
@@ -69,7 +74,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 5
     },
     "passionate": {
         "positive": true,
@@ -85,7 +91,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 6
     },
     "courageous": {
         "positive": true,
@@ -97,7 +104,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 7
     },
     "strong": {
         "positive": true,
@@ -113,7 +121,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 8
     },
     "spontaneous": {
         "positive": true,
@@ -125,7 +134,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 9
     },
     "determined": {
         "positive": true,
@@ -139,7 +149,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 10
     },
     "aggressive": {
         "positive": false,
@@ -149,7 +160,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 11
     },
     "domineering": {
         "positive": false,
@@ -161,7 +173,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 12
     },
     "over-bearing": {
         "positive": false,
@@ -173,7 +186,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 13
     },
     "tiring": {
         "positive": false,
@@ -183,7 +197,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 14
     },
     "angry_and_quick-tempered": {
         "positive": false,
@@ -193,7 +208,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 15
     },
     "ruthless": {
         "positive": false,
@@ -203,7 +219,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 16
     },
     "fearful": {
         "positive": false,
@@ -217,7 +234,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 17
     },
     "intolerant": {
         "positive": false,
@@ -231,7 +249,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 18
     },
     "rebellious_and_obstinate": {
         "positive": false,
@@ -241,7 +260,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 19
     },
     "resentful": {
         "positive": false,
@@ -251,7 +271,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 20
     },
     "violent_and_brutal": {
         "positive": false,
@@ -261,7 +282,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 21
     },
     "sexual_and_lust": {
         "positive": true,
@@ -271,7 +293,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 22
     },
     "sociable": {
         "positive": true,
@@ -281,7 +304,8 @@
         ],
         "importance": [
             2
-        ]
+        ],
+        "id": 23
     },
     "optimistic": {
         "positive": true,
@@ -301,7 +325,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 24
     },
     "enthusiastic": {
         "positive": true,
@@ -313,7 +338,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 25
     },
     "cheerful": {
         "positive": true,
@@ -327,7 +353,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 26
     },
     "confident": {
         "positive": true,
@@ -353,7 +380,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 27
     },
     "independent": {
         "positive": true,
@@ -369,7 +397,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 28
     },
     "flamboyant": {
         "positive": true,
@@ -379,7 +408,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 29
     },
     "extroverted_and_uninhibited": {
         "positive": true,
@@ -389,7 +419,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 30
     },
     "adventurous": {
         "positive": true,
@@ -399,7 +430,8 @@
         ],
         "importance": [
             2
-        ]
+        ],
+        "id": 31
     },
     "risk-taking": {
         "positive": true,
@@ -409,7 +441,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 32
     },
     "creative": {
         "positive": true,
@@ -431,7 +464,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 33
     },
     "warm-hearted": {
         "positive": true,
@@ -441,7 +475,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 34
     },
     "agreeable": {
         "positive": true,
@@ -453,7 +488,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 35
     },
     "informal": {
         "positive": true,
@@ -463,7 +499,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 36
     },
     "superficial_and_insincere": {
         "positive": false,
@@ -475,7 +512,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 37
     },
     "dependent": {
         "positive": false,
@@ -485,7 +523,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 38
     },
     "self-indulgent": {
         "positive": false,
@@ -495,7 +534,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 39
     },
     "exhibitionist": {
         "positive": false,
@@ -505,7 +545,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 40
     },
     "pessimistic": {
         "positive": false,
@@ -519,7 +560,8 @@
             0,
             0,
             1
-        ]
+        ],
+        "id": 41
     },
     "inexpensive": {
         "positive": false,
@@ -529,7 +571,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 42
     },
     "overly_proud": {
         "positive": false,
@@ -539,7 +582,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 43
     },
     "fun": {
         "positive": true,
@@ -549,7 +593,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 44
     },
     "good-humored": {
         "positive": true,
@@ -559,7 +604,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 45
     },
     "original": {
         "positive": true,
@@ -571,7 +617,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 46
     },
     "challenging": {
         "positive": true,
@@ -581,7 +628,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 47
     },
     "academic_and_analytical": {
         "positive": true,
@@ -591,7 +639,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 48
     },
     "wise": {
         "positive": true,
@@ -611,7 +660,8 @@
             1,
             1,
             0
-        ]
+        ],
+        "id": 49
     },
     "logical": {
         "positive": true,
@@ -621,7 +671,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 50
     },
     "critical": {
         "positive": false,
@@ -633,7 +684,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 51
     },
     "judgmental": {
         "positive": false,
@@ -647,7 +699,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 52
     },
     "overly_analytical": {
         "positive": false,
@@ -657,7 +710,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 53
     },
     "impatient": {
         "positive": false,
@@ -669,7 +723,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 54
     },
     "impulsive": {
         "positive": false,
@@ -681,7 +736,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 55
     },
     "egotistical": {
         "positive": false,
@@ -693,7 +749,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 56
     },
     "inferiority_complex": {
         "positive": false,
@@ -703,7 +760,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 57
     },
     "spiteful": {
         "positive": false,
@@ -713,7 +771,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 58
     },
     "cowardly": {
         "positive": false,
@@ -723,7 +782,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 59
     },
     "deceitful": {
         "positive": false,
@@ -733,7 +793,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 60
     },
     "non-emotional": {
         "positive": false,
@@ -747,7 +808,8 @@
             1,
             1,
             1
-        ]
+        ],
+        "id": 61
     },
     "lacking_compassion": {
         "positive": false,
@@ -757,7 +819,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 62
     },
     "growth": {
         "positive": true,
@@ -771,7 +834,8 @@
             2,
             0,
             0
-        ]
+        ],
+        "id": 63
     },
     "renewal_and_restoration": {
         "positive": true,
@@ -781,7 +845,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 64
     },
     "reliable_and_responsible": {
         "positive": true,
@@ -801,7 +866,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "id": 65
     },
     "tactful": {
         "positive": true,
@@ -813,7 +879,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 66
     },
     "calm": {
         "positive": true,
@@ -839,7 +906,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 67
     },
     "nature_lover": {
         "positive": true,
@@ -849,7 +917,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 68
     },
     "practical": {
         "positive": true,
@@ -865,7 +934,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 69
     },
     "down_to_earth": {
         "positive": true,
@@ -877,7 +947,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 70
     },
     "sympathetic": {
         "positive": true,
@@ -887,7 +958,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 71
     },
     "caring_and_nurturing": {
         "positive": true,
@@ -905,7 +977,8 @@
             2,
             0,
             0
-        ]
+        ],
+        "id": 72
     },
     "generous": {
         "positive": true,
@@ -917,7 +990,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 73
     },
     "kind": {
         "positive": true,
@@ -931,7 +1005,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 74
     },
     "loyal": {
         "positive": true,
@@ -945,7 +1020,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 75
     },
     "adaptable": {
         "positive": true,
@@ -955,7 +1031,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 76
     },
     "need_to_belong": {
         "positive": true,
@@ -965,7 +1042,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 77
     },
     "possessive_and_materialistic": {
         "positive": false,
@@ -977,7 +1055,8 @@
         "importance": [
             1,
             2
-        ]
+        ],
+        "id": 78
     },
     "indifferent": {
         "positive": false,
@@ -989,7 +1068,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 79
     },
     "over-cautious": {
         "positive": false,
@@ -1003,7 +1083,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 80
     },
     "envious": {
         "positive": false,
@@ -1013,7 +1094,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 81
     },
     "selfish": {
         "positive": false,
@@ -1025,7 +1107,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 82
     },
     "greedy": {
         "positive": false,
@@ -1035,7 +1118,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 83
     },
     "devious_with_money": {
         "positive": false,
@@ -1045,7 +1129,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 84
     },
     "inconsiderate": {
         "positive": false,
@@ -1055,7 +1140,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 85
     },
     "inexperienced": {
         "positive": false,
@@ -1067,7 +1153,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 86
     },
     "trustworthy": {
         "positive": true,
@@ -1079,7 +1166,8 @@
         "importance": [
             2,
             0
-        ]
+        ],
+        "id": 87
     },
     "conservative": {
         "positive": true,
@@ -1091,7 +1179,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 88
     },
     "idealistic": {
         "positive": true,
@@ -1105,7 +1194,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "id": 89
     },
     "orderly": {
         "positive": true,
@@ -1117,7 +1207,8 @@
         "importance": [
             1,
             1
-        ]
+        ],
+        "id": 90
     },
     "authority": {
         "positive": true,
@@ -1129,7 +1220,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 91
     },
     "rigid": {
         "positive": false,
@@ -1141,7 +1233,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 92
     },
     "deceitful_and_spiteful": {
         "positive": false,
@@ -1151,7 +1244,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 93
     },
     "depressed_and_sad": {
         "positive": false,
@@ -1171,7 +1265,8 @@
             1,
             0,
             0
-        ]
+        ],
+        "id": 94
     },
     "too_passive": {
         "positive": false,
@@ -1181,7 +1276,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 95
     },
     "self-righteous": {
         "positive": false,
@@ -1195,7 +1291,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 96
     },
     "superstitious": {
         "positive": false,
@@ -1205,7 +1302,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 97
     },
     "emotionally_unstable": {
         "positive": false,
@@ -1215,7 +1313,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 98
     },
     "too_conservative_and_old-fashioned": {
         "positive": false,
@@ -1227,7 +1326,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 99
     },
     "predictable": {
         "positive": true,
@@ -1239,7 +1339,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 100
     },
     "weak": {
         "positive": false,
@@ -1249,7 +1350,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 101
     },
     "unforgiving": {
         "positive": false,
@@ -1259,7 +1361,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 102
     },
     "aloof_and_frigid": {
         "positive": false,
@@ -1275,7 +1378,8 @@
             0,
             0,
             1
-        ]
+        ],
+        "id": 103
     },
     "manipulative": {
         "positive": false,
@@ -1285,7 +1389,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 104
     },
     "unfaithfulness": {
         "positive": false,
@@ -1295,7 +1400,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 105
     },
     "integrity": {
         "positive": true,
@@ -1309,7 +1415,8 @@
             1,
             0,
             0
-        ]
+        ],
+        "id": 106
     },
     "sincere": {
         "positive": true,
@@ -1323,7 +1430,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 107
     },
     "structure": {
         "positive": true,
@@ -1335,7 +1443,8 @@
         "importance": [
             1,
             1
-        ]
+        ],
+        "id": 108
     },
     "regulations": {
         "positive": true,
@@ -1345,7 +1454,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 109
     },
     "obedient": {
         "positive": true,
@@ -1355,7 +1465,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 110
     },
     "intuition": {
         "positive": true,
@@ -1373,7 +1484,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 111
     },
     "faithful": {
         "positive": true,
@@ -1383,7 +1495,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 112
     },
     "selfless": {
         "positive": true,
@@ -1395,7 +1508,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 113
     },
     "fanatical": {
         "positive": false,
@@ -1405,7 +1519,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 114
     },
     "impractical": {
         "positive": false,
@@ -1417,7 +1532,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 115
     },
     "conformity": {
         "positive": false,
@@ -1427,7 +1543,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 116
     },
     "addictive": {
         "positive": false,
@@ -1437,7 +1554,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 117
     },
     "bigoted": {
         "positive": false,
@@ -1447,7 +1565,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 118
     },
     "avoiding_conflict": {
         "positive": false,
@@ -1457,7 +1576,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 119
     },
     "psychic": {
         "positive": true,
@@ -1467,7 +1587,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 120
     },
     "humanitarian": {
         "positive": true,
@@ -1477,7 +1598,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 121
     },
     "unlimited": {
         "positive": true,
@@ -1487,7 +1609,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 122
     },
     "mysterious": {
         "positive": true,
@@ -1501,7 +1624,8 @@
             0,
             2,
             0
-        ]
+        ],
+        "id": 123
     },
     "fantasy": {
         "positive": true,
@@ -1511,7 +1635,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 124
     },
     "future_state_of_mind": {
         "positive": true,
@@ -1521,7 +1646,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 125
     },
     "futuristic": {
         "positive": true,
@@ -1531,7 +1657,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 126
     },
     "immature": {
         "positive": false,
@@ -1543,7 +1670,8 @@
         "importance": [
             1,
             1
-        ]
+        ],
+        "id": 127
     },
     "cynical": {
         "positive": false,
@@ -1553,7 +1681,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 128
     },
     "pompous_and_arrogant": {
         "positive": false,
@@ -1565,7 +1694,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 129
     },
     "fraudulent_and_corrupt": {
         "positive": false,
@@ -1575,7 +1705,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 130
     },
     "delusions_of_grandeur": {
         "positive": false,
@@ -1585,7 +1716,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 131
     },
     "communicative": {
         "positive": true,
@@ -1601,7 +1733,8 @@
             2,
             1,
             1
-        ]
+        ],
+        "id": 132
     },
     "clarity_of_thought": {
         "positive": true,
@@ -1615,7 +1748,8 @@
             2,
             0,
             0
-        ]
+        ],
+        "id": 133
     },
     "emotional_balance_and_harmony": {
         "positive": true,
@@ -1631,7 +1765,8 @@
             2,
             2,
             0
-        ]
+        ],
+        "id": 134
     },
     "compassion_and_understanding": {
         "positive": true,
@@ -1649,7 +1784,8 @@
             1,
             1,
             0
-        ]
+        ],
+        "id": 135
     },
     "healing": {
         "positive": true,
@@ -1659,7 +1795,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 136
     },
     "self-sufficient": {
         "positive": true,
@@ -1671,7 +1808,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 137
     },
     "boastful": {
         "positive": false,
@@ -1681,7 +1819,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 138
     },
     "secretive": {
         "positive": true,
@@ -1693,7 +1832,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 139
     },
     "unreliable": {
         "positive": false,
@@ -1703,7 +1843,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 140
     },
     "reticent": {
         "positive": false,
@@ -1713,7 +1854,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 141
     },
     "fence-sitter": {
         "positive": false,
@@ -1725,7 +1867,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 142
     },
     "deceptive": {
         "positive": false,
@@ -1737,7 +1880,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 143
     },
     "love": {
         "positive": true,
@@ -1755,7 +1899,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 144
     },
     "romantic": {
         "positive": true,
@@ -1767,7 +1912,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 145
     },
     "warm": {
         "positive": true,
@@ -1785,7 +1931,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 146
     },
     "hopeful": {
         "positive": true,
@@ -1801,7 +1948,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "id": 147
     },
     "sweet": {
         "positive": true,
@@ -1811,7 +1959,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 148
     },
     "feminine": {
         "positive": true,
@@ -1823,7 +1972,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 149
     },
     "physically_weak": {
         "positive": false,
@@ -1833,7 +1983,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 150
     },
     "over-emotional": {
         "positive": false,
@@ -1845,7 +1996,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 151
     },
     "emotional_neediness": {
         "positive": false,
@@ -1855,7 +2007,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 152
     },
     "unrealistic_expectations": {
         "positive": false,
@@ -1865,7 +2018,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 153
     },
     "naive": {
         "positive": false,
@@ -1875,7 +2029,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 154
     },
     "girlish": {
         "positive": false,
@@ -1885,7 +2040,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 155
     },
     "lack_of_will_power": {
         "positive": false,
@@ -1895,7 +2051,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 156
     },
     "lack_of_self_worth": {
         "positive": false,
@@ -1905,7 +2062,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 157
     },
     "helps_the_spirit_soar": {
         "positive": true,
@@ -1915,7 +2073,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 158
     },
     "spiritual": {
         "positive": true,
@@ -1933,7 +2092,8 @@
             2,
             0,
             0
-        ]
+        ],
+        "id": 159
     },
     "common_sense": {
         "positive": true,
@@ -1943,7 +2103,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 160
     },
     "supportive": {
         "positive": true,
@@ -1955,7 +2116,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 161
     },
     "imaginative": {
         "positive": true,
@@ -1965,7 +2127,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 162
     },
     "innovative": {
         "positive": true,
@@ -1975,7 +2138,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 163
     },
     "artistic": {
         "positive": true,
@@ -1985,7 +2149,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 164
     },
     "non-conformist": {
         "positive": true,
@@ -1995,7 +2160,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 165
     },
     "negotiator": {
         "positive": true,
@@ -2005,7 +2171,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 166
     },
     "avoids_challenges": {
         "positive": false,
@@ -2015,7 +2182,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 167
     },
     "disconnected_to_others": {
         "positive": false,
@@ -2025,7 +2193,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 168
     },
     "bossy": {
         "positive": false,
@@ -2035,7 +2204,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 169
     },
     "demanding": {
         "positive": false,
@@ -2047,7 +2217,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 170
     },
     "wholesome": {
         "positive": true,
@@ -2057,7 +2228,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 171
     },
     "approachable": {
         "positive": true,
@@ -2067,7 +2239,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 172
     },
     "friendly": {
         "positive": true,
@@ -2083,7 +2256,8 @@
             0,
             0,
             1
-        ]
+        ],
+        "id": 173
     },
     "stable": {
         "positive": true,
@@ -2099,7 +2273,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 174
     },
     "comforting": {
         "positive": true,
@@ -2115,7 +2290,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 175
     },
     "protective": {
         "positive": true,
@@ -2129,7 +2305,8 @@
             2,
             2,
             0
-        ]
+        ],
+        "id": 176
     },
     "sensual": {
         "positive": true,
@@ -2139,7 +2316,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 177
     },
     "sensitive": {
         "positive": true,
@@ -2157,7 +2335,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 178
     },
     "reassured": {
         "positive": true,
@@ -2167,7 +2346,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 179
     },
     "honest": {
         "positive": true,
@@ -2179,7 +2359,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 180
     },
     "quality": {
         "positive": true,
@@ -2191,7 +2372,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 181
     },
     "dull": {
         "positive": false,
@@ -2205,7 +2387,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 182
     },
     "boring": {
         "positive": false,
@@ -2219,7 +2402,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 183
     },
     "frugal": {
         "positive": false,
@@ -2229,7 +2413,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 184
     },
     "lack_of_humor": {
         "positive": false,
@@ -2239,7 +2424,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 185
     },
     "unsophisticated": {
         "positive": false,
@@ -2249,7 +2435,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 186
     },
     "cheap_and_stingy": {
         "positive": false,
@@ -2259,7 +2446,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 187
     },
     "dignified": {
         "positive": true,
@@ -2277,7 +2465,8 @@
             0,
             1,
             1
-        ]
+        ],
+        "id": 188
     },
     "neutral": {
         "positive": true,
@@ -2291,7 +2480,8 @@
             1,
             0,
             0
-        ]
+        ],
+        "id": 189
     },
     "impartial": {
         "positive": true,
@@ -2303,7 +2493,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 190
     },
     "professional": {
         "positive": true,
@@ -2319,7 +2510,8 @@
             2,
             0,
             0
-        ]
+        ],
+        "id": 191
     },
     "mature": {
         "positive": true,
@@ -2333,7 +2525,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 192
     },
     "intelligent": {
         "positive": true,
@@ -2347,7 +2540,8 @@
             0,
             2,
             0
-        ]
+        ],
+        "id": 193
     },
     "classic": {
         "positive": true,
@@ -2357,7 +2551,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 194
     },
     "solid": {
         "positive": true,
@@ -2369,7 +2564,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 195
     },
     "subdued": {
         "positive": false,
@@ -2379,7 +2575,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 196
     },
     "reserved": {
         "positive": true,
@@ -2391,7 +2588,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 197
     },
     "elegant": {
         "positive": true,
@@ -2405,7 +2603,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 198
     },
     "formal": {
         "positive": true,
@@ -2417,7 +2616,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 199
     },
     "dependable": {
         "positive": true,
@@ -2431,7 +2631,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "id": 200
     },
     "indecisive": {
         "positive": false,
@@ -2443,7 +2644,8 @@
         "importance": [
             2,
             0
-        ]
+        ],
+        "id": 201
     },
     "lifeless": {
         "positive": false,
@@ -2455,7 +2657,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 202
     },
     "lonely": {
         "positive": false,
@@ -2467,7 +2670,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 203
     },
     "isolated": {
         "positive": false,
@@ -2479,7 +2683,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 204
     },
     "illuminative": {
         "positive": true,
@@ -2491,7 +2696,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 205
     },
     "reflective": {
         "positive": true,
@@ -2503,7 +2709,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 206
     },
     "soothing": {
         "positive": true,
@@ -2513,7 +2720,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 207
     },
     "glamorous": {
         "positive": true,
@@ -2523,7 +2731,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 208
     },
     "self_control": {
         "positive": true,
@@ -2535,7 +2744,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 209
     },
     "organised": {
         "positive": true,
@@ -2545,7 +2755,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 210
     },
     "insightful": {
         "positive": true,
@@ -2561,7 +2772,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 211
     },
     "modern": {
         "positive": true,
@@ -2571,7 +2783,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 212
     },
     "sleek": {
         "positive": true,
@@ -2581,7 +2794,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 213
     },
     "hi-tech": {
         "positive": true,
@@ -2593,7 +2807,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 214
     },
     "scientific": {
         "positive": true,
@@ -2603,7 +2818,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 215
     },
     "melancholy": {
         "positive": false,
@@ -2613,7 +2829,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 216
     },
     "colorless": {
         "positive": false,
@@ -2623,7 +2840,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 217
     },
     "negative": {
         "positive": false,
@@ -2635,7 +2853,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 218
     },
     "successful": {
         "positive": true,
@@ -2645,7 +2864,8 @@
         ],
         "importance": [
             2
-        ]
+        ],
+        "id": 219
     },
     "abundant": {
         "positive": true,
@@ -2655,7 +2875,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 220
     },
     "wealthy": {
         "positive": true,
@@ -2673,7 +2894,8 @@
             0,
             2,
             1
-        ]
+        ],
+        "id": 221
     },
     "self-worth": {
         "positive": true,
@@ -2683,7 +2905,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 222
     },
     "charismatic": {
         "positive": true,
@@ -2693,7 +2916,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 223
     },
     "winning": {
         "positive": true,
@@ -2703,7 +2927,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 224
     },
     "positive": {
         "positive": true,
@@ -2719,7 +2944,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 225
     },
     "masculine": {
         "positive": true,
@@ -2731,7 +2957,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 226
     },
     "fear_of_failure": {
         "positive": false,
@@ -2741,7 +2968,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 227
     },
     "fear_of_losing_wealth": {
         "positive": false,
@@ -2751,7 +2979,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 228
     },
     "self-centred": {
         "positive": false,
@@ -2763,7 +2992,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 229
     },
     "mean_spirited": {
         "positive": false,
@@ -2773,7 +3003,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 230
     },
     "untrustful": {
         "positive": false,
@@ -2783,7 +3014,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 231
     },
     "false": {
         "positive": false,
@@ -2793,7 +3025,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 232
     },
     "innocent": {
         "positive": true,
@@ -2805,7 +3038,8 @@
         "importance": [
             2,
             0
-        ]
+        ],
+        "id": 233
     },
     "pure": {
         "positive": true,
@@ -2819,7 +3053,8 @@
             2,
             0,
             0
-        ]
+        ],
+        "id": 234
     },
     "cleanliness": {
         "positive": true,
@@ -2829,7 +3064,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 235
     },
     "equality": {
         "positive": true,
@@ -2839,7 +3075,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 236
     },
     "complete_and_whole": {
         "positive": true,
@@ -2851,7 +3088,8 @@
         "importance": [
             2,
             0
-        ]
+        ],
+        "id": 237
     },
     "simple": {
         "positive": true,
@@ -2863,7 +3101,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 238
     },
     "immaculate_and_neat": {
         "positive": true,
@@ -2873,7 +3112,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 239
     },
     "pristine": {
         "positive": true,
@@ -2883,7 +3123,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 240
     },
     "open": {
         "positive": true,
@@ -2895,7 +3136,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 241
     },
     "new_beginnings": {
         "positive": true,
@@ -2905,7 +3147,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 242
     },
     "sterile": {
         "positive": false,
@@ -2915,7 +3158,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 243
     },
     "stark": {
         "positive": false,
@@ -2925,7 +3169,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 244
     },
     "fastidious": {
         "positive": false,
@@ -2935,7 +3180,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 245
     },
     "empty": {
         "positive": false,
@@ -2945,7 +3191,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 246
     },
     "plain": {
         "positive": false,
@@ -2955,7 +3202,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 247
     },
     "distant": {
         "positive": false,
@@ -2965,7 +3213,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 248
     },
     "unimaginative": {
         "positive": false,
@@ -2975,7 +3224,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 249
     },
     "contained": {
         "positive": true,
@@ -2985,7 +3235,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 250
     },
     "sophisticated": {
         "positive": true,
@@ -2999,7 +3250,8 @@
             1,
             0,
             0
-        ]
+        ],
+        "id": 251
     },
     "sexy_and_seductive": {
         "positive": true,
@@ -3011,7 +3263,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 252
     },
     "withholding": {
         "positive": false,
@@ -3021,7 +3274,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 253
     },
     "serious": {
         "positive": true,
@@ -3033,7 +3287,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 254
     },
     "control": {
         "positive": true,
@@ -3045,7 +3300,8 @@
         "importance": [
             1,
             1
-        ]
+        ],
+        "id": 255
     },
     "strong_will": {
         "positive": true,
@@ -3057,7 +3313,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 256
     },
     "appetite": {
         "positive": true,
@@ -3069,7 +3326,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 257
     },
     "physical_desires": {
         "positive": true,
@@ -3079,7 +3337,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 258
     },
     "motivating": {
         "positive": true,
@@ -3089,7 +3348,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 259
     },
     "happy": {
         "positive": true,
@@ -3105,7 +3365,8 @@
             1,
             0,
             0
-        ]
+        ],
+        "id": 260
     },
     "emotionally_strong": {
         "positive": true,
@@ -3115,7 +3376,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 261
     },
     "uplifting": {
         "positive": true,
@@ -3129,7 +3391,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 262
     },
     "anxious": {
         "positive": false,
@@ -3141,7 +3404,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 263
     },
     "highly_visible": {
         "positive": true,
@@ -3151,7 +3415,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 264
     },
     "quick_decisions": {
         "positive": true,
@@ -3163,7 +3428,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 265
     },
     "relaxing": {
         "positive": true,
@@ -3175,7 +3441,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 266
     },
     "peace": {
         "positive": true,
@@ -3193,7 +3460,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 267
     },
     "finance": {
         "positive": true,
@@ -3203,7 +3471,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 268
     },
     "secure": {
         "positive": true,
@@ -3215,7 +3484,8 @@
         "importance": [
             0,
             2
-        ]
+        ],
+        "id": 269
     },
     "truthful": {
         "positive": true,
@@ -3225,7 +3495,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 270
     },
     "devotion": {
         "positive": true,
@@ -3237,7 +3508,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 271
     },
     "safe_and_non-threatening": {
         "positive": true,
@@ -3251,7 +3523,8 @@
             0,
             1,
             0
-        ]
+        ],
+        "id": 272
     },
     "inflexible": {
         "positive": false,
@@ -3263,7 +3536,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 273
     },
     "nostalgic": {
         "positive": true,
@@ -3273,7 +3547,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 274
     },
     "religious": {
         "positive": true,
@@ -3285,7 +3560,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 275
     },
     "perceptive": {
         "positive": true,
@@ -3297,7 +3573,8 @@
         "importance": [
             2,
             0
-        ]
+        ],
+        "id": 276
     },
     "concentration": {
         "positive": true,
@@ -3307,7 +3584,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 277
     },
     "justice": {
         "positive": true,
@@ -3319,7 +3597,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 278
     },
     "fair": {
         "positive": true,
@@ -3331,7 +3610,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 279
     },
     "law": {
         "positive": true,
@@ -3341,7 +3621,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 280
     },
     "traditions_and_rituals": {
         "positive": true,
@@ -3351,7 +3632,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 281
     },
     "dramatic": {
         "positive": true,
@@ -3361,7 +3643,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 282
     },
     "narrow-minded": {
         "positive": false,
@@ -3371,7 +3654,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 283
     },
     "introspective": {
         "positive": true,
@@ -3383,7 +3667,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 284
     },
     "imagination": {
         "positive": true,
@@ -3393,7 +3678,8 @@
         ],
         "importance": [
             2
-        ]
+        ],
+        "id": 285
     },
     "peace_of_mind": {
         "positive": true,
@@ -3403,7 +3689,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 286
     },
     "unique_and_individual": {
         "positive": true,
@@ -3413,7 +3700,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 287
     },
     "noble": {
         "positive": true,
@@ -3425,7 +3713,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 288
     },
     "luxurious": {
         "positive": true,
@@ -3437,7 +3726,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 289
     },
     "demands_respect": {
         "positive": true,
@@ -3449,7 +3739,8 @@
         "importance": [
             1,
             0
-        ]
+        ],
+        "id": 290
     },
     "ambitious": {
         "positive": true,
@@ -3459,7 +3750,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 291
     },
     "self-assured": {
         "positive": true,
@@ -3469,7 +3761,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 292
     },
     "inspiring": {
         "positive": true,
@@ -3481,7 +3774,8 @@
         "importance": [
             1,
             1
-        ]
+        ],
+        "id": 293
     },
     "empathic": {
         "positive": true,
@@ -3495,7 +3789,8 @@
             1,
             0,
             0
-        ]
+        ],
+        "id": 294
     },
     "clear_thinking": {
         "positive": true,
@@ -3507,7 +3802,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 295
     },
     "self_esteem": {
         "positive": true,
@@ -3517,7 +3813,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 296
     },
     "observation": {
         "positive": true,
@@ -3527,7 +3824,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 297
     },
     "discriminatory": {
         "positive": false,
@@ -3537,7 +3835,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 298
     },
     "intimate": {
         "positive": true,
@@ -3547,7 +3846,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 299
     },
     "removes_angriness_and_aggression": {
         "positive": true,
@@ -3557,7 +3857,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 300
     },
     "silly": {
         "positive": false,
@@ -3567,7 +3868,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 301
     },
     "affectionate": {
         "positive": true,
@@ -3577,7 +3879,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 302
     },
     "cooperative": {
         "positive": true,
@@ -3587,7 +3890,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 303
     },
     "self-respect": {
         "positive": true,
@@ -3599,7 +3903,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 304
     },
     "overwhelming": {
         "positive": false,
@@ -3609,7 +3914,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 305
     },
     "irritates": {
         "positive": false,
@@ -3619,7 +3925,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 306
     },
     "change_and_transformation": {
         "positive": true,
@@ -3629,7 +3936,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 307
     },
     "family_and_friends": {
         "positive": true,
@@ -3643,7 +3951,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 308
     },
     "genuine": {
         "positive": true,
@@ -3653,7 +3962,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 309
     },
     "natural_and_organic": {
         "positive": true,
@@ -3663,7 +3973,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 310
     },
     "agriculture_and_farming": {
         "positive": true,
@@ -3673,7 +3984,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 311
     },
     "quiet": {
         "positive": true,
@@ -3683,7 +3995,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 312
     },
     "emotional": {
         "positive": true,
@@ -3693,7 +4006,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 313
     },
     "emotional_control": {
         "positive": true,
@@ -3705,7 +4019,8 @@
         "importance": [
             1,
             1
-        ]
+        ],
+        "id": 314
     },
     "conventional": {
         "positive": true,
@@ -3717,7 +4032,8 @@
         "importance": [
             0,
             0
-        ]
+        ],
+        "id": 315
     },
     "compromise": {
         "positive": true,
@@ -3727,7 +4043,8 @@
         ],
         "importance": [
             2
-        ]
+        ],
+        "id": 316
     },
     "detached": {
         "positive": false,
@@ -3739,7 +4056,8 @@
         "importance": [
             0,
             2
-        ]
+        ],
+        "id": 317
     },
     "respectable": {
         "positive": true,
@@ -3751,7 +4069,8 @@
         "importance": [
             0,
             1
-        ]
+        ],
+        "id": 318
     },
     "patient": {
         "positive": true,
@@ -3761,7 +4080,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 319
     },
     "non-committal": {
         "positive": false,
@@ -3771,7 +4091,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 320
     },
     "achievement": {
         "positive": true,
@@ -3781,7 +4102,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 321
     },
     "status": {
         "positive": true,
@@ -3791,7 +4113,8 @@
         ],
         "importance": [
             2
-        ]
+        ],
+        "id": 322
     },
     "triumph": {
         "positive": true,
@@ -3801,7 +4124,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 323
     },
     "prosperity": {
         "positive": true,
@@ -3811,7 +4135,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 324
     },
     "prestige": {
         "positive": true,
@@ -3823,7 +4148,8 @@
         "importance": [
             1,
             1
-        ]
+        ],
+        "id": 325
     },
     "value": {
         "positive": true,
@@ -3833,7 +4159,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 326
     },
     "knowledge": {
         "positive": true,
@@ -3847,7 +4174,8 @@
             0,
             0,
             0
-        ]
+        ],
+        "id": 327
     },
     "win": {
         "positive": true,
@@ -3857,7 +4185,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 328
     },
     "lacking_kindness": {
         "positive": false,
@@ -3867,7 +4196,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 329
     },
     "lacking_generosity": {
         "positive": false,
@@ -3877,7 +4207,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 330
     },
     "enlightenment": {
         "positive": true,
@@ -3887,7 +4218,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 331
     },
     "disinterested": {
         "positive": false,
@@ -3897,7 +4229,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 332
     },
     "efficient": {
         "positive": true,
@@ -3907,7 +4240,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 333
     },
     "intimidating": {
         "positive": false,
@@ -3917,7 +4251,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 334
     },
     "unfriendly": {
         "positive": false,
@@ -3927,7 +4262,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 335
     },
     "unapproachable": {
         "positive": false,
@@ -3937,7 +4273,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 336
     },
     "disciplined": {
         "positive": true,
@@ -3947,7 +4284,8 @@
         ],
         "importance": [
             0
-        ]
+        ],
+        "id": 337
     },
     "mind": {
         "positive": true,
@@ -3957,7 +4295,8 @@
         ],
         "importance": [
             2
-        ]
+        ],
+        "id": 338
     },
     "rejuvenating": {
         "positive": true,
@@ -3969,7 +4308,8 @@
         "importance": [
             1,
             1
-        ]
+        ],
+        "id": 339
     },
     "diplomatic": {
         "positive": true,
@@ -3979,7 +4319,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 340
     },
     "higher_mind": {
         "positive": true,
@@ -3993,7 +4334,8 @@
             2,
             0,
             0
-        ]
+        ],
+        "id": 341
     },
     "rescuer": {
         "positive": true,
@@ -4003,7 +4345,8 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 342
     },
     "unity": {
         "positive": true,
@@ -4013,6 +4356,7 @@
         ],
         "importance": [
             1
-        ]
+        ],
+        "id": 343
     }
 }
