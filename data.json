@@ -576,7 +576,7 @@
     },
     "overly_proud": {
         "positive": false,
-        "text": "overly_proud",
+        "text": "overly proud",
         "colors": [
             "orange"
         ],
@@ -2187,7 +2187,7 @@
     },
     "disconnected_to_others": {
         "positive": false,
-        "text": "disconnected_to_others",
+        "text": "disconnected to others",
         "colors": [
             "magenta"
         ],
@@ -3731,7 +3731,7 @@
     },
     "demands_respect": {
         "positive": true,
-        "text": "demands_respect",
+        "text": "demands respect",
         "colors": [
             "purple",
             "pink"
