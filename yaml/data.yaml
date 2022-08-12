@@ -627,7 +627,7 @@ demands_respect:
   - 1
   - 0
   positive: true
-  text: demands_respect
+  text: demands respect
 dependable:
   colors:
   - grey
@@ -745,7 +745,7 @@ disconnected_to_others:
   importance:
   - 0
   positive: false
-  text: disconnected_to_others
+  text: disconnected to others
 discriminatory:
   colors:
   - turquoise
@@ -2143,7 +2143,7 @@ overly_proud:
   importance:
   - 0
   positive: false
-  text: overly_proud
+  text: overly proud
 overwhelming:
   colors:
   - magenta
